@@ -1,0 +1,2822 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "算法工程师",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-08-18T18:21:48Z",
+                "owner": "lcylmhlcy",
+                "repo": "Awesome-algorithm-interview",
+                "stars": 3031
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "牛客网",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-08-18T18:21:48Z",
+                "owner": "lcylmhlcy",
+                "repo": "Awesome-algorithm-interview",
+                "stars": 3031
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "知乎",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-08-18T18:21:48Z",
+                "owner": "lcylmhlcy",
+                "repo": "Awesome-algorithm-interview",
+                "stars": 3031
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "个人博客",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-08-18T18:21:48Z",
+                "owner": "lcylmhlcy",
+                "repo": "Awesome-algorithm-interview",
+                "stars": 3031
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "其它",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-08-18T18:21:48Z",
+                "owner": "lcylmhlcy",
+                "repo": "Awesome-algorithm-interview",
+                "stars": 3031
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-18T18:21:48Z",
+            "owner": "lcylmhlcy",
+            "repo": "Awesome-algorithm-interview",
+            "stars": 3031
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "机器学习",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "面试问题",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-08-18T18:21:48Z",
+                "owner": "lcylmhlcy",
+                "repo": "Awesome-algorithm-interview",
+                "stars": 3031
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "资料",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-08-18T18:21:48Z",
+                "owner": "lcylmhlcy",
+                "repo": "Awesome-algorithm-interview",
+                "stars": 3031
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "代码实战",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-08-18T18:21:48Z",
+                "owner": "lcylmhlcy",
+                "repo": "Awesome-algorithm-interview",
+                "stars": 3031
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "网课",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-08-18T18:21:48Z",
+                "owner": "lcylmhlcy",
+                "repo": "Awesome-algorithm-interview",
+                "stars": 3031
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-18T18:21:48Z",
+            "owner": "lcylmhlcy",
+            "repo": "Awesome-algorithm-interview",
+            "stars": 3031
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "深度学习",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "面试",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-08-18T18:21:48Z",
+                "owner": "lcylmhlcy",
+                "repo": "Awesome-algorithm-interview",
+                "stars": 3031
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "资料",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-08-18T18:21:48Z",
+                "owner": "lcylmhlcy",
+                "repo": "Awesome-algorithm-interview",
+                "stars": 3031
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "代码实战 Pytorch",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-08-18T18:21:48Z",
+                "owner": "lcylmhlcy",
+                "repo": "Awesome-algorithm-interview",
+                "stars": 3031
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "代码实战 Tensorflow",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-08-18T18:21:48Z",
+                "owner": "lcylmhlcy",
+                "repo": "Awesome-algorithm-interview",
+                "stars": 3031
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "网课",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-08-18T18:21:48Z",
+                "owner": "lcylmhlcy",
+                "repo": "Awesome-algorithm-interview",
+                "stars": 3031
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-18T18:21:48Z",
+            "owner": "lcylmhlcy",
+            "repo": "Awesome-algorithm-interview",
+            "stars": 3031
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C/C++",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-18T18:21:48Z",
+            "owner": "lcylmhlcy",
+            "repo": "Awesome-algorithm-interview",
+            "stars": 3031
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-18T18:21:48Z",
+            "owner": "lcylmhlcy",
+            "repo": "Awesome-algorithm-interview",
+            "stars": 3031
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "竞赛/比赛",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-18T18:21:48Z",
+            "owner": "lcylmhlcy",
+            "repo": "Awesome-algorithm-interview",
+            "stars": 3031
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "简历模板",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-18T18:21:48Z",
+            "owner": "lcylmhlcy",
+            "repo": "Awesome-algorithm-interview",
+            "stars": 3031
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "其它",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-18T18:21:48Z",
+            "owner": "lcylmhlcy",
+            "repo": "Awesome-algorithm-interview",
+            "stars": 3031
+          }
+        }
+      ],
+      "title": "目录"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Algorithm Engineer"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "技术面试必备基础知识 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-21T09:40:10Z",
+            "owner": "CyC2018",
+            "repo": "CS-Notes",
+            "stars": 185038
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-22T09:39:06Z",
+            "owner": "0voice",
+            "repo": "interview_internal_reference",
+            "stars": 37232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-computer-vision Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-17T14:24:27Z",
+            "owner": "jbhuang0604",
+            "repo": "awesome-computer-vision",
+            "stars": 23492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "互联网公司leetcode题目 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-13T11:52:55Z",
+            "owner": "afatcoder",
+            "repo": "LeetcodeTop",
+            "stars": 19998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "apachecn Interview Github",
+          "description": "Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-10-20T08:12:51Z",
+            "owner": "apachecn",
+            "repo": "Interview",
+            "stars": 8963
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MVision-awesome Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-09T10:25:36Z",
+            "owner": "Ewenwan",
+            "repo": "MVision",
+            "stars": 8689
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI算法岗求职攻略 Github",
+          "description": "(amusi)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-05T05:50:01Z",
+            "owner": "amusi",
+            "repo": "AI-Job-Notes",
+            "stars": 6134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Daily Interview Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-08T05:55:09Z",
+            "owner": "datawhalechina",
+            "repo": "daily-interview",
+            "stars": 3789
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020年的算法实习岗位信息表，部分包括内推码，和常见深度学习算法岗面试题及答案，暑期计算机视觉实习面经和总结 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-10T10:31:11Z",
+            "owner": "harleyszhang",
+            "repo": "cv_note",
+            "stars": 2637
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "计算机视觉算法岗知识点及面试问答汇总 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-11-02T01:25:43Z",
+            "owner": "GYee",
+            "repo": "CV_interviews_Q-A",
+            "stars": 1800
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019届秋招面经集合 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-03-31T11:45:25Z",
+            "owner": "zslomo",
+            "repo": "2019-Autumn-recruitment-experience",
+            "stars": 1773
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "算法工程师面试 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-01-14T02:06:34Z",
+            "owner": "PPshrimpGo",
+            "repo": "AIinterview",
+            "stars": 924
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CV岗常见面试题 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-05T09:21:35Z",
+            "owner": "donnyyou",
+            "repo": "cv-interview",
+            "stars": 367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "「面试算法练级攻略」-「LeetCode题解」-「剑指offer题解」 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-08-29T16:21:44Z",
+            "owner": "guokaide",
+            "repo": "algorithm",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "算法/深度学习/NLP面试笔记 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:47:30Z",
+            "owner": "imhuay",
+            "repo": "sspace",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "阿里、腾讯、百度、华为、京东、搜狗和滴滴最新面试题汇集 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-05-13T06:56:49Z",
+            "owner": "xiaole0310",
+            "repo": "interview-",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Algorithm_for_Interview-Chinese Github",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "1. Github"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Machine Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "machine-learning-interview-questions Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-05-19T08:08:55Z",
+            "owner": "Sroy20",
+            "repo": "machine-learning-interview-questions",
+            "stars": 1656
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "机器学习面试复习资源 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-08-13T21:44:12Z",
+            "owner": "wangyuGithub01",
+            "repo": "Machine_Learning_Resources",
+            "stars": 1241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "【机器学习面试准备指南】 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-11-05T22:52:35Z",
+            "owner": "AstronomerAmber",
+            "repo": "ML_prep",
+            "stars": 422
+          }
+        }
+      ],
+      "title": "1. Interview"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fit interpretable models. Explain blackbox machine learning. Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-28T14:42:47Z",
+            "owner": "jwasham",
+            "repo": "coding-interview-university",
+            "stars": 358629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "<机器学习>(西瓜书)公式推导解析 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-22T20:35:48Z",
+            "owner": "datawhalechina",
+            "repo": "pumpkin-book",
+            "stars": 25991
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "<统计学习方法>第二版的代码实现 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-08-22T09:26:05Z",
+            "owner": "fengdu78",
+            "repo": "lihang-code",
+            "stars": 19589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "机器学习(Machine Learning) 深度学习(Deep Learning) NLP面试中常考到的知识点和代码实现 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-09T15:16:21Z",
+            "owner": "NLP-LOVE",
+            "repo": "ML-NLP",
+            "stars": 17792
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "List of Data Science Cheatsheets to rule the world Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-18T03:39:29Z",
+            "owner": "FavioVazquez",
+            "repo": "ds-cheatsheets",
+            "stars": 16307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Your new Mentor for Data Science E-Learning Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-10-14T17:32:44Z",
+            "owner": "virgili0",
+            "repo": "Virgilio",
+            "stars": 14937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Your new Mentor for Data Science E-Learning. Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-10-14T17:32:44Z",
+            "owner": "virgili0",
+            "repo": "Virgilio",
+            "stars": 14937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PRML(python) Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-04-05T02:01:37Z",
+            "owner": "ctgk",
+            "repo": "PRML",
+            "stars": 11722
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "机器学习实战(Python3) Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-12T11:28:35Z",
+            "owner": "Jack-Cherish",
+            "repo": "Machine-Learning",
+            "stars": 10368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "《Python 机器学习》 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-10-01T06:20:21Z",
+            "owner": "rasbt",
+            "repo": "python-machine-learning-book-2nd-edition",
+            "stars": 7200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Brief Introduction to Machine Learning for Engineers Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-10-01T06:20:21Z",
+            "owner": "rasbt",
+            "repo": "python-machine-learning-book-2nd-edition",
+            "stars": 7200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "李航博士<统计学习方法>一书中所有算法python实现 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-29T09:39:05Z",
+            "owner": "WenDesi",
+            "repo": "lihang_book_algorithm",
+            "stars": 5829
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solutions to Introduction to Algorithms Third Edition Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-06-08T23:46:26Z",
+            "owner": "walkccc",
+            "repo": "CLRS",
+            "stars": 5109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "周志华《机器学习》手推笔记 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-03-13T03:19:59Z",
+            "owner": "Sophia-11",
+            "repo": "Machine-Learning-Notes",
+            "stars": 3779
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "王斌老师翻译的<机器学习实战>书python代码实现 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-08-02T00:49:50Z",
+            "owner": "wzy6642",
+            "repo": "Machine-Learning-in-Action-Python3",
+            "stars": 1344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python3 入门机器学习 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-08-22T00:48:14Z",
+            "owner": "liuyubobobo",
+            "repo": "Play-with-Machine-Learning-Algorithms",
+            "stars": 1291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DrWhy is the collection of tools for Explainable AI (XAI) Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2023-02-21T16:34:36Z",
+            "owner": "ModelOriented",
+            "repo": "DrWhy",
+            "stars": 688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "<数据科学实战>书代码 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-12-01T15:22:31Z",
+            "owner": "oreillymedia",
+            "repo": "doing_data_science",
+            "stars": 500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PRML(python) Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-06-02T01:56:44Z",
+            "owner": "amber-kshz",
+            "repo": "PRML",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "李宏毅《机器学习》笔记 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-27T03:15:43Z",
+            "owner": "datawhalechina",
+            "repo": "leeml-notes",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Data-Science--Cheat-Sheet Github",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "2. Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AiLearning- ML、深度学习 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-12T16:21:55Z",
+            "owner": "apachecn",
+            "repo": "ailearning",
+            "stars": 42455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Homemade Machine Learning Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-11-23T04:22:46Z",
+            "owner": "trekhleb",
+            "repo": "homemade-machine-learning",
+            "stars": 24751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "100-Days-Of-ML-Code中文版 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-04-06T12:01:37Z",
+            "owner": "MLEveryday",
+            "repo": "100-Days-Of-ML-Code",
+            "stars": 22232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Machine learning, in numpy Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-29T00:53:03Z",
+            "owner": "ddbourgin",
+            "repo": "numpy-ml",
+            "stars": 16335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Machine-Learning-Study-Path-March-2019 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-10-14T17:32:44Z",
+            "owner": "virgili0",
+            "repo": "Virgilio",
+            "stars": 14937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "机器学习算法python实现 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-20T17:21:57Z",
+            "owner": "lawlite19",
+            "repo": "MachineLearning_Python",
+            "stars": 8577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Machine Learning Course with Python Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-27T03:47:57Z",
+            "owner": "instillai",
+            "repo": "machine-learning-course",
+            "stars": 7045
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python codes for common Machine Learning Algorithms Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-06-05T01:08:21Z",
+            "owner": "susanli2016",
+            "repo": "Machine-Learning-with-Python",
+            "stars": 4590
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The best resources in Machine Learning & AI Github",
+          "description": "Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-02-01T03:28:54Z",
+            "owner": "RemoteML",
+            "repo": "bestofml",
+            "stars": 350
+          }
+        }
+      ],
+      "title": "3. Code"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "北欧概率AI学校课程资料 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-05-14T15:14:53Z",
+            "owner": "probabilisticai",
+            "repo": "probai-2019",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "斯科尔科沃理工学院“数值线性代数”课程资料 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-01-07T15:54:22Z",
+            "owner": "oseledets",
+            "repo": "nla2020",
+            "stars": 88
+          }
+        }
+      ],
+      "title": "4. Online Course"
+    },
+    {
+      "description": "注：百度 “如何使用google免费gpu” ，每个人单卡14G Telsa T4，需要科学上网",
+      "items": [],
+      "title": "Deep Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2020年的算法实习岗位信息表，部分包括内推码，和常见深度学习算法岗面试题及答案 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-10T10:31:11Z",
+            "owner": "harleyszhang",
+            "repo": "cv_note",
+            "stars": 2637
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Learning Interview 深度学习面试题目汇总 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-05-03T03:02:13Z",
+            "owner": "ShanghaiTechAIClub",
+            "repo": "DLInterview",
+            "stars": 1109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "深度学习面试问题 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-11-02T15:50:10Z",
+            "owner": "elviswf",
+            "repo": "DeepLearningBookQA_cn",
+            "stars": 875
+          }
+        }
+      ],
+      "title": "1. Interview"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "伯克利课程 <动手学深度学习> Github",
+          "description": "课程主页 bilibili 课件和习题 英文版 中文版 PyTorch 版",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-30T09:32:19Z",
+            "owner": "d2l-ai",
+            "repo": "d2l-zh",
+            "stars": 79679
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "深度学习500问 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-26T12:10:14Z",
+            "owner": "scutan90",
+            "repo": "DeepLearning-500-questions",
+            "stars": 57532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep-Learning-Papers-Reading-Roadmap Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-27T13:18:32Z",
+            "owner": "floodsung",
+            "repo": "Deep-Learning-Papers-Reading-Roadmap",
+            "stars": 39553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "花书 Deep Learning 中文版 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2019-12-03T04:25:44Z",
+            "owner": "exacity",
+            "repo": "deeplearningbook-chinese",
+            "stars": 37362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-deep-learning Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-05-26T12:28:00Z",
+            "owner": "ChristosChristofidis",
+            "repo": "awesome-deep-learning",
+            "stars": 28747
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(微软) AI-神经网络基本原理简明教程 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-05-16T09:54:06Z",
+            "owner": "microsoft",
+            "repo": "ai-edu",
+            "stars": 14089
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "微软人工智能教育与学习共建社区 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-05-16T09:54:06Z",
+            "owner": "microsoft",
+            "repo": "ai-edu",
+            "stars": 14089
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deep-learning-drizzle Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-10-19T17:28:52Z",
+            "owner": "kmario23",
+            "repo": "deep-learning-drizzle",
+            "stars": 12932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An educational resource to help anyone learn deep reinforcement learning Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-05T03:30:30Z",
+            "owner": "openai",
+            "repo": "spinningup",
+            "stars": 11894
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "用Python实现\"Pattern Recognition and Machine Learning”里的算法 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-04-05T02:01:37Z",
+            "owner": "ctgk",
+            "repo": "PRML",
+            "stars": 11722
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "《深度学习》圣经花书的数学推导、原理与Python代码实现 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-06-23T02:05:50Z",
+            "owner": "MingchaoZhu",
+            "repo": "DeepLearning",
+            "stars": 7726
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "深度神经网络中的一些模型进行统一的图示 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-11T09:07:36Z",
+            "owner": "weslynn",
+            "repo": "AlphaTree-graphic-deep-neural-network",
+            "stars": 3008
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "five-days deep learning website",
+          "description": "Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-29T17:51:18Z",
+            "owner": "dataflowr",
+            "repo": "notebooks",
+            "stars": 1267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learn_Computer_Vision Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-08-12T07:50:43Z",
+            "owner": "llSourcell",
+            "repo": "Learn_Computer_Vision",
+            "stars": 1122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "《Python深度学习》书籍 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-01-30T02:23:04Z",
+            "owner": "ChileWang0228",
+            "repo": "Deep-Learning-With-Python",
+            "stars": 640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "机器学习/计算机视觉/ NLP的论文及笔记 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-05-02T16:40:21Z",
+            "owner": "yassouali",
+            "repo": "ML-paper-notes",
+            "stars": 563
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome_Computer_Vision Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-07-09T03:41:57Z",
+            "owner": "ahong007007",
+            "repo": "awesomeCV",
+            "stars": 502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Explaining the Math of how neural networks learn Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-01-15T15:42:54Z",
+            "owner": "omar-florez",
+            "repo": "scratch_mlp",
+            "stars": 377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "《Python深度学习算法实战(TensorFlow)》随书代码 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-10-02T15:27:28Z",
+            "owner": "sudharsan13296",
+            "repo": "Hands-On-Deep-Learning-Algorithms-with-Python",
+            "stars": 357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "【机器学习/深度学习报告、Kaggler优胜模型、深度学习最佳实践大列表】 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-03-14T20:39:26Z",
+            "owner": "wandb",
+            "repo": "awesome-dl-projects",
+            "stars": 347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ML/DL学习笔记（基础+论文） Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-12-22T07:40:17Z",
+            "owner": "lartpang",
+            "repo": "Machine-Deep-Learning",
+            "stars": 289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "邱锡鹏<神经网络与深度学习> Github书",
+          "description": "Github示例代码 Github课程练习",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-06-25T03:17:48Z",
+            "owner": "nndl",
+            "repo": "nndl.github.io",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "2. Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pytorch Github",
+          "description": "Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T16:38:18Z",
+            "owner": "pytorch",
+            "repo": "pytorch",
+            "stars": 102358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytorch-lightning Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T12:04:16Z",
+            "owner": "Lightning-AI",
+            "repo": "pytorch-lightning",
+            "stars": 31287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Offical pytorch examples Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-01T17:21:47Z",
+            "owner": "pytorch",
+            "repo": "examples",
+            "stars": 24006
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyTorch中文手册 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-25T07:17:26Z",
+            "owner": "zergtant",
+            "repo": "pytorch-handbook",
+            "stars": 21673
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-pytorch-list Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-01T07:01:10Z",
+            "owner": "bharathgs",
+            "repo": "Awesome-pytorch-list",
+            "stars": 16628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyTorch 资源大列表中文版 Github",
+          "description": "Github汉化",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-01T07:01:10Z",
+            "owner": "bharathgs",
+            "repo": "Awesome-pytorch-list",
+            "stars": 16628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "<深度学习框架PyTorch：入门与实践>的对应代码 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-12-24T05:46:11Z",
+            "owner": "chenyuntc",
+            "repo": "pytorch-book",
+            "stars": 12843
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fast.ai Computational Linear Algebra course Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-16T14:44:18Z",
+            "owner": "fastai",
+            "repo": "numerical-linear-algebra",
+            "stars": 10963
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Offical pytorch tutorials Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T20:40:43Z",
+            "owner": "pytorch",
+            "repo": "tutorials",
+            "stars": 9279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "<Pytorch模型训练实用教程>中配套代码 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T03:32:13Z",
+            "owner": "TingsongYu",
+            "repo": "PyTorch_Tutorial",
+            "stars": 8015
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stanford-cs-230-deep-learning Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-05-20T04:23:57Z",
+            "owner": "afshinea",
+            "repo": "stanford-cs-230-deep-learning",
+            "stars": 7058
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-PyTorch-Chinese Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-08-14T03:04:28Z",
+            "owner": "INTERMT",
+            "repo": "Awesome-PyTorch-Chinese",
+            "stars": 4766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "code-of-learn-deep-learning-with-pytorch Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-04T08:38:10Z",
+            "owner": "L1aoXingyu",
+            "repo": "code-of-learn-deep-learning-with-pytorch",
+            "stars": 2874
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An unofficial styleguide and best practices summary for PyTorch Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-28T17:41:46Z",
+            "owner": "IgorSusmelj",
+            "repo": "pytorch-styleguide",
+            "stars": 2017
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "全栈深度学习训练营(课程视频)'Full Stack Deep Learning Bootcamp' Github",
+          "description": "bilibili website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-06-14T04:25:32Z",
+            "owner": "the-full-stack",
+            "repo": "fsdl-text-recognizer-project",
+            "stars": 1224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "First steps towards Deep Learning with pyTorch Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-11-22T04:16:53Z",
+            "owner": "vaibhawvipul",
+            "repo": "First-steps-towards-Deep-Learning",
+            "stars": 441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Build-an-AI-Startup-with-PyTorch Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-04-08T06:23:19Z",
+            "owner": "llSourcell",
+            "repo": "Build-an-AI-Startup-with-PyTorch",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "practicalAI Github",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "3. Pytorch Code"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-19T23:02:20Z",
+            "owner": "ageron",
+            "repo": "handson-ml2",
+            "stars": 29956
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TensorFlow 2.0 深度学习开源书 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-08-30T10:54:30Z",
+            "owner": "dragen1860",
+            "repo": "Deep-Learning-with-TensorFlow-book",
+            "stars": 13216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "30天吃掉那只 TensorFlow2 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-22T03:18:54Z",
+            "owner": "lyhue1991",
+            "repo": "eat_tensorflow2_in_30_days",
+            "stars": 9922
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tensorflow2中文教程 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-12-09T04:20:57Z",
+            "owner": "czy36mengfei",
+            "repo": "tensorflow2_tutorials_chinese",
+            "stars": 7782
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "《动手学深度学习》TensorFlow 2.0实现 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-03-17T08:51:52Z",
+            "owner": "TrickyGo",
+            "repo": "Dive-into-DL-TensorFlow2.0",
+            "stars": 3824
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notebooks for my \"Deep Learning with TensorFlow 2 and Keras\" course Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-05-23T01:08:50Z",
+            "owner": "ageron",
+            "repo": "tf2_course",
+            "stars": 1909
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TensorFlow-From-Zero-To-One Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-07-05T08:33:32Z",
+            "owner": "amusi",
+            "repo": "TensorFlow-From-Zero-To-One",
+            "stars": 1164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TensorFlow2.0 官方教程翻译 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-08-08T12:28:07Z",
+            "owner": "mashangxue",
+            "repo": "tensorflow2-zh",
+            "stars": 202
+          }
+        }
+      ],
+      "title": "4. Tensorflow Code"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "微软-计算机视觉最佳实践、代码示例和相关文档 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-02-16T23:55:05Z",
+            "owner": "microsoft",
+            "repo": "computervision-recipes",
+            "stars": 9877
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BiliBili公开课目录数学 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-06-22T13:57:16Z",
+            "owner": "elder-frog",
+            "repo": "OpenCourseCatalog",
+            "stars": 8957
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "伯克利课程深度无监督学习(2020) bilibili",
+          "description": "bilibili 官方中文版讲义 课件 GitHub Reddit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-06-16T19:16:24Z",
+            "owner": "Atcold",
+            "repo": "NYU-DLSP20",
+            "stars": 6808
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "人工智能课程列表：斯坦福、MIT、UC Berkeley等顶校的开放式深度学习和强化学习课程 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-04-02T10:40:46Z",
+            "owner": "Machine-Learning-Tokyo",
+            "repo": "AI_Curriculum",
+            "stars": 2561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UC伯克利最新深度强化学习课程 website",
+          "description": "YouTube bilibili Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-24T22:32:55Z",
+            "owner": "berkeleydeeprlcourse",
+            "repo": "homework",
+            "stars": 1656
+          }
+        }
+      ],
+      "title": "5. Online Course"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "手把手撕LeetCode题目 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-02-28T10:07:31Z",
+            "owner": "labuladong",
+            "repo": "fucking-algorithm",
+            "stars": 135329
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fucking-algorithm Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-02-28T10:07:31Z",
+            "owner": "labuladong",
+            "repo": "fucking-algorithm",
+            "stars": 135329
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LeetCode动画 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-12T13:49:06Z",
+            "owner": "MisterBooo",
+            "repo": "LeetCodeAnimation",
+            "stars": 76720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "leetcode题解，记录自己的leetcode解题之路 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-16T09:42:17Z",
+            "owner": "azl397985856",
+            "repo": "leetcode",
+            "stars": 55773
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "leetcode Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-16T09:42:17Z",
+            "owner": "azl397985856",
+            "repo": "leetcode",
+            "stars": 55773
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "algorithm-visualizer Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-09T06:54:22Z",
+            "owner": "algorithm-visualizer",
+            "repo": "algorithm-visualizer",
+            "stars": 48667
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C/C++面试基础知识总结 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-08-24T07:01:54Z",
+            "owner": "huihut",
+            "repo": "interview",
+            "stars": 38118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LeetCode in Go Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-05T15:34:29Z",
+            "owner": "halfrost",
+            "repo": "LeetCode-Go",
+            "stars": 33797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "数据结构和算法必知必会的50个代码实现 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-21T07:31:34Z",
+            "owner": "wangzheng0822",
+            "repo": "algo",
+            "stars": 23139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "learnOpencv Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-31T13:53:46Z",
+            "owner": "spmallick",
+            "repo": "learnopencv",
+            "stars": 23073
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LeetCode All In One Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-29T12:14:39Z",
+            "owner": "grandyang",
+            "repo": "leetcode",
+            "stars": 6187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solutions to Introduction to Algorithms Third Edition Github",
+          "description": "Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-06-08T23:46:26Z",
+            "owner": "walkccc",
+            "repo": "CLRS",
+            "stars": 5109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "<算法导论>的C++实现代码 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-03-14T14:56:47Z",
+            "owner": "huaxz1986",
+            "repo": "cplusplus-_Implementation_Of_Introduction_to_Algorithms",
+            "stars": 4056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C/C++问题总结 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-03-03T17:34:50Z",
+            "owner": "linw7",
+            "repo": "Skill-Tree",
+            "stars": 3705
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Data Structure and Algorithm notes数据结构与算法/leetcode/lintcode题解 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-28T13:16:24Z",
+            "owner": "billryan",
+            "repo": "algorithm-exercise",
+            "stars": 3489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LeetCode solutions in C++ 11 and Python3 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-10-19T08:37:26Z",
+            "owner": "pezy",
+            "repo": "LeetCode",
+            "stars": 3456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leetcode 题解代码仓(C++) Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-11-09T09:31:35Z",
+            "owner": "liuyubobobo",
+            "repo": "Play-Leetcode",
+            "stars": 2724
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Play Leetcode with different Programming language Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-05-24T11:57:20Z",
+            "owner": "luliyucoordinate",
+            "repo": "Leetcode",
+            "stars": 1478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LeetCode, HackRank, 剑指offer, classic algorithm implementation (C++) Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-03-10T08:20:48Z",
+            "owner": "knightsj",
+            "repo": "awesome-algorithm-question-solution",
+            "stars": 1138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "面试高频算法题总结，个人博客 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-22T04:05:10Z",
+            "owner": "Miller-Xie",
+            "repo": "Code",
+            "stars": 1131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "leetcode 1~400知识点&题型总结&leetcode对应题表 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-09T19:16:09Z",
+            "owner": "huxiaoman7",
+            "repo": "leetcodebook",
+            "stars": 589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "基于OpenCV4.0 C++/Python SDK的案例代码演示程序与效果图像 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-12-13T03:43:35Z",
+            "owner": "gloomyfish1998",
+            "repo": "opencv_tutorial",
+            "stars": 542
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Algorithm for Interview（面试算法笔记-中文） Github",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "C/C++"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A curated list of awesome Python frameworks, libraries, software and resources Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T06:11:04Z",
+            "owner": "vinta",
+            "repo": "awesome-python",
+            "stars": 313756
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "All Algorithms implemented in Python Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T18:44:56Z",
+            "owner": "TheAlgorithms",
+            "repo": "Python",
+            "stars": 223723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python - 100天从新手到大师 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-29T15:18:29Z",
+            "owner": "jackfrued",
+            "repo": "Python-100-Days",
+            "stars": 185175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "和小浩学算法 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-06-13T04:13:17Z",
+            "owner": "geekxh",
+            "repo": "hello-algorithm",
+            "stars": 36090
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "关于Python的面试题1 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-03-05T09:14:51Z",
+            "owner": "taizilongxu",
+            "repo": "interview_python",
+            "stars": 17366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wtfpython的中文翻译 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-29T08:16:22Z",
+            "owner": "leisurelicht",
+            "repo": "wtfpython-cn",
+            "stars": 12710
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LeetCode, HackRank, 剑指offer, classic algorithm implementation (Python) Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-19T16:43:36Z",
+            "owner": "apachecn",
+            "repo": "apachecn-algo-zh",
+            "stars": 11146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "c9-python-getting-started Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-05-25T02:53:23Z",
+            "owner": "microsoft",
+            "repo": "c9-python-getting-started",
+            "stars": 8020
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Beauty of Python Programming Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-07T10:05:14Z",
+            "owner": "ethan-funny",
+            "repo": "explore-python",
+            "stars": 2839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python中文库-python人工智能大数据自动化接口测试开发。书籍下载及python库汇总 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-18T07:36:13Z",
+            "owner": "china-testing",
+            "repo": "python-api-tesing",
+            "stars": 2467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "算法面试题python Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-28T02:03:31Z",
+            "owner": "leeguandong",
+            "repo": "Interview-code-practice-python",
+            "stars": 1575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Just Code ! 针对面试训练算法题 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-09T02:01:39Z",
+            "owner": "YaxeZhang",
+            "repo": "Just-Code",
+            "stars": 825
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Improve your Python by fixing errors Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-16T11:00:12Z",
+            "owner": "qxf2",
+            "repo": "wtfiswronghere",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "剑指offer（python版）/ 算法图解 / python基础 / 数据结构 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-10T02:16:40Z",
+            "owner": "lesywix",
+            "repo": "oh-my-python",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "关于Python的面试题2 Github",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "程序员简历模板系列 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-14T10:20:23Z",
+            "owner": "geekcompany",
+            "repo": "ResumeSample",
+            "stars": 28235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Resume for Chinese Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-22T14:48:43Z",
+            "owner": "dyweb",
+            "repo": "awesome-resume-for-chinese",
+            "stars": 8173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI算法岗简历模板 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-08-19T18:07:45Z",
+            "owner": "amusi",
+            "repo": "AI-Job-Resume",
+            "stars": 717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "个人简历模板 Github",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Resume Template"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A complete computer science study plan to become a software engineer. Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-28T14:42:47Z",
+            "owner": "jwasham",
+            "repo": "coding-interview-university",
+            "stars": 358629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coding interview university Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-28T14:42:47Z",
+            "owner": "jwasham",
+            "repo": "coding-interview-university",
+            "stars": 358629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Materials to help you rock your next coding interview Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T12:06:42Z",
+            "owner": "yangshun",
+            "repo": "tech-interview-handbook",
+            "stars": 141838
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-interview-questions Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2024-07-29T14:21:23Z",
+            "owner": "DopplerHQ",
+            "repo": "awesome-interview-questions",
+            "stars": 84039
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Everything you need to know to get the job Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-05-12T12:56:04Z",
+            "owner": "kdn251",
+            "repo": "interviews",
+            "stars": 65225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "浙江大学课程攻略共享计划 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-01-20T11:01:02Z",
+            "owner": "QSCTech",
+            "repo": "zju-icicles",
+            "stars": 40787
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "清华大学计算机系课程攻略 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-19T14:30:25Z",
+            "owner": "PKUanonym",
+            "repo": "REKCARC-TSC-UHT",
+            "stars": 37415
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "北京大学课程资料整理 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2022-01-05T04:09:27Z",
+            "owner": "lib-pku",
+            "repo": "libpku",
+            "stars": 33790
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "编程竞赛 OI Wiki Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T16:17:58Z",
+            "owner": "OI-wiki",
+            "repo": "OI-wiki",
+            "stars": 26512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Curated list of resources for college students Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-17T14:00:26Z",
+            "owner": "dipakkr",
+            "repo": "A-to-Z-Resources-for-Students",
+            "stars": 22162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Everything you need to prepare for your technical interview Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-25T19:55:23Z",
+            "owner": "Olshansk",
+            "repo": "interview",
+            "stars": 18349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "专为程序员编写的英语学习指南 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-01-28T07:48:04Z",
+            "owner": "yujiangshui",
+            "repo": "A-Programmers-Guide-to-English",
+            "stars": 16575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "中国科学技术大学课程资源 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-08-19T06:35:50Z",
+            "owner": "USTC-Resource",
+            "repo": "USTC-Course",
+            "stars": 16233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learn Vim (the Smart Way)：Vim学习手册 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-04-23T14:36:12Z",
+            "owner": "iggredible",
+            "repo": "Learn-Vim",
+            "stars": 15182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "计算机速成课(全40集) Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-27T08:05:10Z",
+            "owner": "1c7",
+            "repo": "Crash-Course-Computer-Science-Chinese",
+            "stars": 10875
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹） Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-02-28T02:09:03Z",
+            "owner": "SSHeRun",
+            "repo": "CS-Xmind-Note",
+            "stars": 10608
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-29T10:23:02Z",
+            "owner": "wolverinn",
+            "repo": "Waking-Up",
+            "stars": 10277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "上海交通大学课程资料分享 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-04-17T00:59:33Z",
+            "owner": "kxxwz",
+            "repo": "SJTU-Courses",
+            "stars": 9583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "清华大神的计算机自学笔记 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T12:36:39Z",
+            "owner": "huangruiteng",
+            "repo": "CS-Notes",
+            "stars": 3972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Programming Books Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-10-24T12:03:37Z",
+            "owner": "zero-equals-false",
+            "repo": "awesome-programming-books",
+            "stars": 2103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Study materials for SE/CS technical interviews Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-05-08T00:19:19Z",
+            "owner": "jdsutton",
+            "repo": "Technical-Interview-Megarepo",
+            "stars": 1627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "国内各大城市提供计算机视觉（CV）算法岗的公司名单 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-01T12:16:48Z",
+            "owner": "amusi",
+            "repo": "CV-Company-List",
+            "stars": 1011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Startups about artificial intelligence. (DM, ML, NLP, CV...) Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-11-07T08:06:40Z",
+            "owner": "lipiji",
+            "repo": "AIStartups",
+            "stars": 596
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "计算机科学和相关领域研究生奖学金大列表 Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-11T16:50:44Z",
+            "owner": "chinasaokolo",
+            "repo": "csGraduateFellowships",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "中国科学院大学研一课程课件共享项目 Github",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Others"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T16:39:41.249Z",
+    "original_repository": "lcylmhlcy/Awesome-algorithm-interview",
+    "original_repository_sha": "fa69e636d0b2c9dc4c1cd0ff9d00ad53afdfad95",
+    "enhanced_repository": "enhansome/enhansome-Awesome-algorithm-interview",
+    "enhanced_repository_description": null,
+    "title": "Awesome-algorithm-interview with stars"
+  }
+}
