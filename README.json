@@ -492,7 +492,7 @@
                 "open_issues": 197,
                 "owner": "CyC2018",
                 "repo": "CS-Notes",
-                "stars": 186327,
+                "stars": 186341,
                 "topics": [
                   "algorithm",
                   "computer-science",
@@ -522,7 +522,7 @@
                 "open_issues": 35,
                 "owner": "0voice",
                 "repo": "interview_internal_reference",
-                "stars": 37254,
+                "stars": 37256,
                 "topics": [
                   "cpu",
                   "high-performance",
@@ -554,7 +554,7 @@
                 "open_issues": 99,
                 "owner": "jbhuang0604",
                 "repo": "awesome-computer-vision",
-                "stars": 23573,
+                "stars": 23575,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:12.080Z"
@@ -572,10 +572,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-03-13T11:52:55Z",
-                "open_issues": 40,
+                "open_issues": 41,
                 "owner": "afatcoder",
                 "repo": "LeetcodeTop",
-                "stars": 20048,
+                "stars": 20051,
                 "topics": [
                   "interview",
                   "leetcode"
@@ -599,7 +599,7 @@
                 "open_issues": 0,
                 "owner": "apachecn",
                 "repo": "Interview",
-                "stars": 8976,
+                "stars": 8977,
                 "topics": [
                   "interview",
                   "kaggle",
@@ -626,7 +626,7 @@
                 "open_issues": 19,
                 "owner": "Ewenwan",
                 "repo": "MVision",
-                "stars": 8732,
+                "stars": 8734,
                 "topics": [
                   "cnn",
                   "deep-learning",
@@ -655,7 +655,7 @@
                 "open_issues": 8,
                 "owner": "amusi",
                 "repo": "AI-Job-Notes",
-                "stars": 6166,
+                "stars": 6167,
                 "topics": [
                   "algorithms",
                   "artificial-intelligence",
@@ -688,7 +688,7 @@
                 "open_issues": 0,
                 "owner": "datawhalechina",
                 "repo": "daily-interview",
-                "stars": 3847,
+                "stars": 3848,
                 "topics": [
                   "cv",
                   "interview-questions",
@@ -742,7 +742,7 @@
                 "open_issues": 5,
                 "owner": "GYee",
                 "repo": "CV_interviews_Q-A",
-                "stars": 1811,
+                "stars": 1812,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:12.080Z"
@@ -849,7 +849,7 @@
                 "id": 1015936670,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-25T23:52:59Z",
+                "last_commit": "2026-09-27T23:41:35Z",
                 "open_issues": 0,
                 "owner": "imhuay",
                 "repo": "sspace",
@@ -902,7 +902,7 @@
                 "open_issues": 85,
                 "owner": "gzc",
                 "repo": "CLRS",
-                "stars": 9605,
+                "stars": 9606,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:12.080Z"
@@ -1006,7 +1006,7 @@
                 "open_issues": 127,
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 362008,
+                "stars": 362089,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -1040,7 +1040,7 @@
                 "open_issues": 9,
                 "owner": "datawhalechina",
                 "repo": "pumpkin-book",
-                "stars": 26094,
+                "stars": 26096,
                 "topics": [
                   "book",
                   "machine-learning",
@@ -1065,7 +1065,7 @@
                 "open_issues": 50,
                 "owner": "fengdu78",
                 "repo": "lihang-code",
-                "stars": 19598,
+                "stars": 19596,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:12.080Z"
@@ -1111,7 +1111,7 @@
                 "open_issues": 13,
                 "owner": "FavioVazquez",
                 "repo": "ds-cheatsheets",
-                "stars": 16352,
+                "stars": 16355,
                 "topics": [
                   "cheatsheet",
                   "datascience",
@@ -1224,7 +1224,7 @@
                 "open_issues": 18,
                 "owner": "ctgk",
                 "repo": "PRML",
-                "stars": 11733,
+                "stars": 11731,
                 "topics": [
                   "jupyter",
                   "notebook",
@@ -1438,7 +1438,7 @@
                 "open_issues": 1,
                 "owner": "liuyubobobo",
                 "repo": "Play-with-Machine-Learning-Algorithms",
-                "stars": 1290,
+                "stars": 1289,
                 "topics": [
                   "imooc",
                   "jupyter-notebooks",
@@ -1556,7 +1556,7 @@
                 "open_issues": 4,
                 "owner": "apachecn",
                 "repo": "ailearning",
-                "stars": 42560,
+                "stars": 42562,
                 "topics": [
                   "adaboost",
                   "apriori",
@@ -1627,7 +1627,7 @@
                 "open_issues": 19,
                 "owner": "MLEveryday",
                 "repo": "100-Days-Of-ML-Code",
-                "stars": 22238,
+                "stars": 22239,
                 "topics": [
                   "100-days-of-ml-code",
                   "chinese-simplified",
@@ -1792,7 +1792,7 @@
                 "open_issues": 50,
                 "owner": "susanli2016",
                 "repo": "Machine-Learning-with-Python",
-                "stars": 4602,
+                "stars": 4601,
                 "topics": [
                   "decision-trees",
                   "hierarchical-clustering",
@@ -2009,7 +2009,7 @@
                 "open_issues": 127,
                 "owner": "d2l-ai",
                 "repo": "d2l-zh",
-                "stars": 81134,
+                "stars": 81178,
                 "topics": [
                   "book",
                   "chinese",
@@ -2039,7 +2039,7 @@
                 "open_issues": 120,
                 "owner": "scutan90",
                 "repo": "DeepLearning-500-questions",
-                "stars": 57636,
+                "stars": 57638,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:12.080Z"
@@ -2060,7 +2060,7 @@
                 "open_issues": 93,
                 "owner": "floodsung",
                 "repo": "Deep-Learning-Papers-Reading-Roadmap",
-                "stars": 39566,
+                "stars": 39567,
                 "topics": [
                   "deep-learning"
                 ]
@@ -2104,7 +2104,7 @@
                 "open_issues": 88,
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 28982,
+                "stars": 28988,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2135,7 +2135,7 @@
                 "open_issues": 101,
                 "owner": "microsoft",
                 "repo": "ai-edu",
-                "stars": 14124,
+                "stars": 14125,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:12.080Z"
@@ -2156,7 +2156,7 @@
                 "open_issues": 101,
                 "owner": "microsoft",
                 "repo": "ai-edu",
-                "stars": 14124,
+                "stars": 14125,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:12.080Z"
@@ -2177,7 +2177,7 @@
                 "open_issues": 5,
                 "owner": "kmario23",
                 "repo": "deep-learning-drizzle",
-                "stars": 12952,
+                "stars": 12956,
                 "topics": [
                   "artificial-intelligence-algorithms",
                   "artificial-neural-networks",
@@ -2219,7 +2219,7 @@
                 "open_issues": 255,
                 "owner": "openai",
                 "repo": "spinningup",
-                "stars": 11977,
+                "stars": 11978,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:12.080Z"
@@ -2240,7 +2240,7 @@
                 "open_issues": 18,
                 "owner": "ctgk",
                 "repo": "PRML",
-                "stars": 11733,
+                "stars": 11731,
                 "topics": [
                   "jupyter",
                   "notebook",
@@ -2583,11 +2583,11 @@
                 "id": 65600975,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-27T19:12:04Z",
-                "open_issues": 17586,
+                "last_commit": "2026-09-28T21:23:48Z",
+                "open_issues": 17627,
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 103415,
+                "stars": 103463,
                 "topics": [
                   "autograd",
                   "deep-learning",
@@ -2614,10 +2614,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-21T11:44:30Z",
-                "open_issues": 1092,
+                "open_issues": 1093,
                 "owner": "Lightning-AI",
                 "repo": "pytorch-lightning",
-                "stars": 31363,
+                "stars": 31369,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -2695,7 +2695,7 @@
                 "open_issues": 26,
                 "owner": "bharathgs",
                 "repo": "Awesome-pytorch-list",
-                "stars": 16682,
+                "stars": 16683,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2737,7 +2737,7 @@
                 "open_issues": 26,
                 "owner": "bharathgs",
                 "repo": "Awesome-pytorch-list",
-                "stars": 16682,
+                "stars": 16683,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2843,10 +2843,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-25T21:46:33Z",
-                "open_issues": 267,
+                "open_issues": 268,
                 "owner": "pytorch",
                 "repo": "tutorials",
-                "stars": 9348,
+                "stars": 9349,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:12.080Z"
@@ -2888,7 +2888,7 @@
                 "open_issues": 7,
                 "owner": "afshinea",
                 "repo": "stanford-cs-230-deep-learning",
-                "stars": 7105,
+                "stars": 7107,
                 "topics": [
                   "cheatsheet",
                   "convolutional-neural-networks",
@@ -3077,7 +3077,7 @@
                 "open_issues": 229,
                 "owner": "ageron",
                 "repo": "handson-ml2",
-                "stars": 29958,
+                "stars": 29955,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:12.080Z"
@@ -3154,7 +3154,7 @@
                 "open_issues": 16,
                 "owner": "czy36mengfei",
                 "repo": "tensorflow2_tutorials_chinese",
-                "stars": 7771,
+                "stars": 7772,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:12.080Z"
@@ -3323,7 +3323,7 @@
                 "open_issues": 6,
                 "owner": "elder-frog",
                 "repo": "OpenCourseCatalog",
-                "stars": 9169,
+                "stars": 9175,
                 "topics": [
                   "awesome-opencourse",
                   "catelog",
@@ -3424,10 +3424,10 @@
             "language": "Markdown",
             "license": null,
             "last_commit": "2026-02-28T10:07:31Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "labuladong",
             "repo": "fucking-algorithm",
-            "stars": 136040,
+            "stars": 136042,
             "topics": [
               "algorithms",
               "computer-science",
@@ -3454,10 +3454,10 @@
             "language": "Markdown",
             "license": null,
             "last_commit": "2026-02-28T10:07:31Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "labuladong",
             "repo": "fucking-algorithm",
-            "stars": 136040,
+            "stars": 136042,
             "topics": [
               "algorithms",
               "computer-science",
@@ -3514,7 +3514,7 @@
             "open_issues": 13,
             "owner": "azl397985856",
             "repo": "leetcode",
-            "stars": 55733,
+            "stars": 55734,
             "topics": [
               "algo",
               "algorithm",
@@ -3550,7 +3550,7 @@
             "open_issues": 13,
             "owner": "azl397985856",
             "repo": "leetcode",
-            "stars": 55733,
+            "stars": 55734,
             "topics": [
               "algo",
               "algorithm",
@@ -3586,7 +3586,7 @@
             "open_issues": 80,
             "owner": "algorithm-visualizer",
             "repo": "algorithm-visualizer",
-            "stars": 48839,
+            "stars": 48862,
             "topics": [
               "algorithm",
               "animation",
@@ -3612,7 +3612,7 @@
             "open_issues": 1,
             "owner": "huihut",
             "repo": "interview",
-            "stars": 38235,
+            "stars": 38236,
             "topics": [
               "algorithm",
               "c",
@@ -3687,7 +3687,7 @@
             "open_issues": 220,
             "owner": "spmallick",
             "repo": "learnopencv",
-            "stars": 23167,
+            "stars": 23168,
             "topics": [
               "ai",
               "computer-vision",
@@ -3722,7 +3722,7 @@
             "open_issues": 160,
             "owner": "wangzheng0822",
             "repo": "algo",
-            "stars": 23136,
+            "stars": 23137,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:12.080Z"
@@ -3892,7 +3892,7 @@
             "open_issues": 1,
             "owner": "liuyubobobo",
             "repo": "Play-Leetcode",
-            "stars": 2721,
+            "stars": 2720,
             "topics": [
               "algorithm-challenges",
               "algorithm-competitions",
@@ -4044,11 +4044,11 @@
             "id": 21289110,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-27T13:05:53Z",
-            "open_issues": 22,
+            "last_commit": "2026-09-28T09:15:13Z",
+            "open_issues": 19,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 323517,
+            "stars": 323827,
             "topics": [
               "awesome",
               "awesome-list",
@@ -4072,11 +4072,11 @@
             "id": 63476337,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-27T13:10:21Z",
-            "open_issues": 94,
+            "last_commit": "2026-09-28T11:55:24Z",
+            "open_issues": 100,
             "owner": "TheAlgorithms",
             "repo": "Python",
-            "stars": 225062,
+            "stars": 225100,
             "topics": [
               "algorithm",
               "algorithm-competitions",
@@ -4109,10 +4109,10 @@
             "language": "Jupyter Notebook",
             "license": null,
             "last_commit": "2026-07-29T15:18:29Z",
-            "open_issues": 715,
+            "open_issues": 716,
             "owner": "jackfrued",
             "repo": "Python-100-Days",
-            "stars": 186933,
+            "stars": 186961,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:12.080Z"
@@ -4133,7 +4133,7 @@
             "open_issues": 11,
             "owner": "geekxh",
             "repo": "hello-algorithm",
-            "stars": 36108,
+            "stars": 36109,
             "topics": [
               "algorithms",
               "dynamic-programming",
@@ -4160,7 +4160,7 @@
             "open_issues": 34,
             "owner": "taizilongxu",
             "repo": "interview_python",
-            "stars": 17392,
+            "stars": 17394,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:12.080Z"
@@ -4234,7 +4234,7 @@
             "open_issues": 63,
             "owner": "microsoft",
             "repo": "c9-python-getting-started",
-            "stars": 8026,
+            "stars": 8025,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:12.080Z"
@@ -4400,7 +4400,7 @@
             "open_issues": 11,
             "owner": "geekcompany",
             "repo": "ResumeSample",
-            "stars": 28323,
+            "stars": 28327,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:12.080Z"
@@ -4421,7 +4421,7 @@
             "open_issues": 4,
             "owner": "dyweb",
             "repo": "awesome-resume-for-chinese",
-            "stars": 8486,
+            "stars": 8491,
             "topics": [
               "engineer",
               "html",
@@ -4481,7 +4481,7 @@
             "open_issues": 127,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 362008,
+            "stars": 362089,
             "topics": [
               "algorithm",
               "algorithms",
@@ -4515,7 +4515,7 @@
             "open_issues": 127,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 362008,
+            "stars": 362089,
             "topics": [
               "algorithm",
               "algorithms",
@@ -4549,7 +4549,7 @@
             "open_issues": 37,
             "owner": "yangshun",
             "repo": "tech-interview-handbook",
-            "stars": 142984,
+            "stars": 143005,
             "topics": [
               "algorithm",
               "algorithm-interview",
@@ -4581,7 +4581,7 @@
             "open_issues": 48,
             "owner": "DopplerHQ",
             "repo": "awesome-interview-questions",
-            "stars": 84697,
+            "stars": 84714,
             "topics": [
               "android-interview-questions",
               "angularjs-interview-questions",
@@ -4617,7 +4617,7 @@
             "open_issues": 122,
             "owner": "kdn251",
             "repo": "interviews",
-            "stars": 65258,
+            "stars": 65261,
             "topics": [
               "algorithm",
               "algorithm-challenges",
@@ -4659,7 +4659,7 @@
             "open_issues": 12,
             "owner": "QSCTech",
             "repo": "zju-icicles",
-            "stars": 41112,
+            "stars": 41121,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:12.080Z"
@@ -4707,7 +4707,7 @@
             "open_issues": 14,
             "owner": "lib-pku",
             "repo": "libpku",
-            "stars": 34039,
+            "stars": 34042,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:12.080Z"
@@ -4724,11 +4724,11 @@
             "id": 140516736,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-27T17:13:06Z",
-            "open_issues": 139,
+            "last_commit": "2026-09-28T16:10:16Z",
+            "open_issues": 141,
             "owner": "OI-wiki",
             "repo": "OI-wiki",
-            "stars": 26751,
+            "stars": 26762,
             "topics": [
               "acm-icpc",
               "acm-icpc-handbook",
@@ -4762,7 +4762,7 @@
             "open_issues": 52,
             "owner": "dipakkr",
             "repo": "A-to-Z-Resources-for-Students",
-            "stars": 22292,
+            "stars": 22295,
             "topics": [
               "android",
               "awesome",
@@ -4792,7 +4792,7 @@
             "open_issues": 15,
             "owner": "Olshansk",
             "repo": "interview",
-            "stars": 18367,
+            "stars": 18368,
             "topics": [
               "google-interview",
               "guide",
@@ -4819,7 +4819,7 @@
             "open_issues": 10,
             "owner": "yujiangshui",
             "repo": "A-Programmers-Guide-to-English",
-            "stars": 16797,
+            "stars": 16841,
             "topics": [
               "english",
               "english-learning"
@@ -4843,7 +4843,7 @@
             "open_issues": 0,
             "owner": "USTC-Resource",
             "repo": "USTC-Course",
-            "stars": 16287,
+            "stars": 16289,
             "topics": [
               "computer-science",
               "course",
@@ -4869,7 +4869,7 @@
             "open_issues": 18,
             "owner": "iggredible",
             "repo": "Learn-Vim",
-            "stars": 15239,
+            "stars": 15242,
             "topics": [
               "advanced",
               "beginner",
@@ -4908,7 +4908,7 @@
             "open_issues": 2,
             "owner": "1c7",
             "repo": "Crash-Course-Computer-Science-Chinese",
-            "stars": 10916,
+            "stars": 10919,
             "topics": [
               "computer-science",
               "crash-course",
@@ -4954,7 +4954,7 @@
             "open_issues": 21,
             "owner": "wolverinn",
             "repo": "Waking-Up",
-            "stars": 10292,
+            "stars": 10295,
             "topics": [
               "computer-network",
               "computer-science",
@@ -4984,7 +4984,7 @@
             "open_issues": 5,
             "owner": "kxxwz",
             "repo": "SJTU-Courses",
-            "stars": 9666,
+            "stars": 9668,
             "topics": [
               "courses",
               "sjtu"
@@ -5004,11 +5004,11 @@
             "id": 256262711,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-26T19:05:50Z",
+            "last_commit": "2026-09-28T20:02:50Z",
             "open_issues": 6,
             "owner": "huangruiteng",
             "repo": "CS-Notes",
-            "stars": 3997,
+            "stars": 3998,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:12.080Z"
@@ -5144,7 +5144,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T19:19:22.574Z",
+    "last_updated": "2026-09-28T21:23:56.552Z",
     "original_repository_info": {
       "archived": false,
       "description": "算法工程师(人工智能CV方向)面试问题及相关资料",
