@@ -40,11 +40,11 @@
 * 技术面试必备基础知识 [Github](https://github.com/CyC2018/CS-Notes) ⭐ 186,369 | 🐛 197 | 📅 2024-08-21
 * 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总 [Github](https://github.com/0voice/interview_internal_reference) ⭐ 37,261 | 🐛 35 | 🌐 Python | 📅 2025-10-22
 * awesome-computer-vision [Github](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,586 | 🐛 99 | 📅 2024-05-17
-* 互联网公司leetcode题目 [Github](https://github.com/afatcoder/LeetcodeTop) ⭐ 20,050 | 🐛 44 | 📅 2024-03-13
-* apachecn Interview [Github](https://github.com/apachecn/interview) ⭐ 8,973 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-10-20  [Website](https://github.com/apachecn)
+* 互联网公司leetcode题目 [Github](https://github.com/afatcoder/LeetcodeTop) ⭐ 20,049 | 🐛 44 | 📅 2024-03-13
+* apachecn Interview [Github](https://github.com/apachecn/interview) ⭐ 8,974 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-10-20  [Website](https://github.com/apachecn)
 * MVision-awesome [Github](https://github.com/Ewenwan/MVision) ⭐ 8,735 | 🐛 19 | 🌐 C++ | 📅 2024-07-09
 * AI算法岗求职攻略 [Github](https://github.com/amusi/AI-Job-Notes) ⭐ 6,168 | 🐛 8 | 📅 2025-06-05 [(amusi)](https://github.com/amusi)
-* Daily Interview [Github](https://github.com/datawhalechina/Daily-interview) ⭐ 3,854 | 🐛 0 | 📅 2026-07-08
+* Daily Interview [Github](https://github.com/datawhalechina/Daily-interview) ⭐ 3,855 | 🐛 0 | 📅 2026-07-08
 * 2020年的算法实习岗位信息表，部分包括内推码，和常见深度学习算法岗面试题及答案，暑期计算机视觉实习面经和总结 [Github](https://github.com/HarleysZhang/2019_algorithm_intern_information) ⭐ 2,640 | 🐛 0 | 🌐 Python | 📅 2026-05-10
 * 计算机视觉算法岗知识点及面试问答汇总 [Github](https://github.com/GYee/CV_interviews_Q-A) ⭐ 1,812 | 🐛 5 | 📅 2021-11-02
 * 2019届秋招面经集合 [Github](https://github.com/zslomo/2019-Autumn-recruitment-experience) ⭐ 1,783 | 🐛 10 | 📅 2019-03-31
@@ -141,7 +141,7 @@
 
 ### 5. Others
 
-* Solutions to Introduction to Algorithms [Github](https://github.com/gzc/CLRS) ⭐ 9,603 | 🐛 85 | 🌐 C++ | 📅 2023-10-15
+* Solutions to Introduction to Algorithms [Github](https://github.com/gzc/CLRS) ⭐ 9,601 | 🐛 85 | 🌐 C++ | 📅 2023-10-15
 * 廖雪峰AI面试资料 [BaiduYun](https://pan.baidu.com/s/10NL2yJxsBFjq8PP-wdBfuw)  ps:uzj9
 * CV 领域论文常见单词 [zhihu](https://zhuanlan.zhihu.com/p/60049093)
 * CV 领域Paper论文常见单词 [zhihu](https://zhuanlan.zhihu.com/p/58860096)
@@ -161,13 +161,13 @@
 
 ### 2. Documentation
 
-* Fit interpretable models. Explain blackbox machine learning. [Github](https://github.com/jwasham/coding-interview-university) ⭐ 362,262 | 🐛 127 | 📅 2025-08-28
-* <机器学习>(西瓜书)公式推导解析 [Github](https://github.com/datawhalechina/pumpkin-book) ⭐ 26,104 | 🐛 9 | 📅 2026-04-22
+* Fit interpretable models. Explain blackbox machine learning. [Github](https://github.com/jwasham/coding-interview-university) ⭐ 362,283 | 🐛 127 | 📅 2025-08-28
+* <机器学习>(西瓜书)公式推导解析 [Github](https://github.com/datawhalechina/pumpkin-book) ⭐ 26,106 | 🐛 9 | 📅 2026-04-22
 * <统计学习方法>第二版的代码实现 [Github](https://github.com/fengdu78/lihang-code) ⭐ 19,599 | 🐛 50 | 🌐 Jupyter Notebook | 📅 2023-08-22
-* 机器学习(Machine Learning) 深度学习(Deep Learning) NLP面试中常考到的知识点和代码实现 [Github](https://github.com/NLP-LOVE/ML-NLP) ⭐ 17,825 | 🐛 36 | 🌐 Jupyter Notebook | 📅 2026-01-09
+* 机器学习(Machine Learning) 深度学习(Deep Learning) NLP面试中常考到的知识点和代码实现 [Github](https://github.com/NLP-LOVE/ML-NLP) ⭐ 17,824 | 🐛 36 | 🌐 Jupyter Notebook | 📅 2026-01-09
 * List of Data Science Cheatsheets to rule the world [Github](https://github.com/FavioVazquez/ds-cheatsheets) ⭐ 16,362 | 🐛 13 | 📅 2024-07-18
-* Your new Mentor for Data Science E-Learning [Github](https://github.com/clone95/Virgilio) ⭐ 15,001 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2025-10-14
-* Your new Mentor for Data Science E-Learning. [Github](https://github.com/virgili0/Virgilio) ⭐ 15,001 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2025-10-14
+* Your new Mentor for Data Science E-Learning [Github](https://github.com/clone95/Virgilio) ⭐ 15,002 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2025-10-14
+* Your new Mentor for Data Science E-Learning. [Github](https://github.com/virgili0/Virgilio) ⭐ 15,002 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2025-10-14
 * PRML(python) [Github](https://github.com/ctgk/PRML) ⭐ 11,735 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2025-04-05
 * 机器学习实战(Python3) [Github](https://github.com/Jack-Cherish/Machine-Learning) ⭐ 10,397 | 🐛 7 | 🌐 Python | 📅 2024-07-12
 * 《Python 机器学习》 [Github](https://github.com/rasbt/python-machine-learning-book-2nd-edition) ⭐ 7,202 | 🐛 31 | 🌐 Jupyter Notebook | 📅 2020-10-01
@@ -175,7 +175,7 @@
 * 李航博士<统计学习方法>一书中所有算法python实现 [Github](https://github.com/WenDesi/lihang_book_algorithm) ⭐ 5,831 | 🐛 12 | 🌐 Python | 📅 2019-04-29
 * Solutions to Introduction to Algorithms Third Edition [Github](https://github.com/walkccc/CLRS) ⭐ 5,120 | 🐛 111 | 🌐 Markdown | 📅 2026-06-08
 * 周志华《机器学习》手推笔记 [Github](https://github.com/Sophia-11/Machine-Learning-Notes) ⭐ 3,785 | 🐛 3 | 📅 2021-03-13
-* 王斌老师翻译的<机器学习实战>书python代码实现 [Github](https://github.com/wzy6642/Machine-Learning-in-Action-Python3) ⭐ 1,346 | 🐛 10 | 🌐 HTML | 📅 2020-08-02
+* 王斌老师翻译的<机器学习实战>书python代码实现 [Github](https://github.com/wzy6642/Machine-Learning-in-Action-Python3) ⭐ 1,345 | 🐛 10 | 🌐 HTML | 📅 2020-08-02
 * Python3 入门机器学习 [Github](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms) ⭐ 1,290 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-08-22
 * DrWhy is the collection of tools for Explainable AI (XAI) [Github](https://github.com/ModelOriented/DrWhy) ⭐ 688 | 🐛 1 | 🌐 R | 📅 2023-02-21
 * <数据科学实战>书代码 [Github](https://github.com/oreillymedia/doing_data_science) ⭐ 500 | 🐛 8 | 📅 2022-12-01
@@ -189,14 +189,14 @@
 
 ### 3. Code
 
-* AiLearning- ML、深度学习 [Github](https://github.com/apachecn/AiLearning) ⭐ 42,565 | 🐛 4 | 🌐 Python | 📅 2024-11-12
+* AiLearning- ML、深度学习 [Github](https://github.com/apachecn/AiLearning) ⭐ 42,566 | 🐛 4 | 🌐 Python | 📅 2024-11-12
 * Homemade Machine Learning [Github](https://github.com/trekhleb/homemade-machine-learning) ⭐ 24,806 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2025-11-23
 * 100-Days-Of-ML-Code中文版 [Github](https://github.com/MLEveryday/100-Days-Of-ML-Code) ⭐ 22,241 | 🐛 19 | 🌐 Python | 📅 2026-10-02
 * Machine learning, in numpy [Github](https://github.com/ddbourgin/numpy-ml) ⭐ 16,323 | 🐛 51 | 🌐 Python | 📅 2023-10-29
-* Machine-Learning-Study-Path-March-2019 [Github](https://github.com/clone95/Machine-Learning-Study-Path-March-2019) ⭐ 15,001 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2025-10-14
-* 机器学习算法python实现 [Github](https://github.com/lawlite19/MachineLearning_Python) ⭐ 8,624 | 🐛 10 | 🌐 Python | 📅 2024-05-20
+* Machine-Learning-Study-Path-March-2019 [Github](https://github.com/clone95/Machine-Learning-Study-Path-March-2019) ⭐ 15,002 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2025-10-14
+* 机器学习算法python实现 [Github](https://github.com/lawlite19/MachineLearning_Python) ⭐ 8,625 | 🐛 10 | 🌐 Python | 📅 2024-05-20
 * A Machine Learning Course with Python [Github](https://github.com/machinelearningmindset/machine-learning-course) ⭐ 7,045 | 🐛 1 | 🌐 Python | 📅 2024-11-27
-* Python codes for common Machine Learning Algorithms [Github](https://github.com/susanli2016/Machine-Learning-with-Python) ⭐ 4,601 | 🐛 50 | 🌐 Jupyter Notebook | 📅 2025-06-05
+* Python codes for common Machine Learning Algorithms [Github](https://github.com/susanli2016/Machine-Learning-with-Python) ⭐ 4,600 | 🐛 50 | 🌐 Jupyter Notebook | 📅 2025-06-05
 * The best resources in Machine Learning & AI [Github](https://github.com/RemoteML/bestofml) ⭐ 350 | 🐛 1 | 🌐 HTML | 📅 2022-02-01 [Website](https://bestofml.com/)
 * A complete computer science study plan to become a software engineer. [Github](https://arxiv.org/abs/1709.02840)
 
@@ -225,7 +225,7 @@
 
 ## Deep Learning
 
-**注：百度 “如何使用google免费gpu” ，每个人单卡14G Telsa T4，需要[科学上网](https://github.com/getlantern/lantern) ⭐ 16,075 | 🐛 34 | 🌐 Dart | 📅 2026-10-02**
+**注：百度 “如何使用google免费gpu” ，每个人单卡14G Telsa T4，需要[科学上网](https://github.com/getlantern/lantern) ⭐ 16,081 | 🐛 34 | 🌐 Dart | 📅 2026-10-03**
 
 ### 1. Interview
 
@@ -237,22 +237,22 @@
 
 ### 2. Documentation
 
-* 伯克利课程 <动手学深度学习> [Github](https://github.com/d2l-ai/d2l-zh) ⭐ 81,327 | 🐛 127 | 🌐 Python | 📅 2024-07-30 [课程主页](http://courses.d2l.ai/berkeley-stat-157/) [bilibili](https://space.bilibili.com/209599371/channel/detail?cid=23541) [课件和习题](https://github.com/d2l-ai/berkeley-stat-157) ⭐ 4,027 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2021-02-16 [英文版](http://d2l.ai/) [中文版](http://zh.d2l.ai/) [PyTorch 版](https://github.com/dsgiitr/d2l-pytorch) ⭐ 4,368 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2024-07-25
-* 深度学习500问 [Github](https://github.com/scutan90/DeepLearning-500-questions) ⭐ 57,646 | 🐛 120 | 🌐 JavaScript | 📅 2024-06-26
-* Deep-Learning-Papers-Reading-Roadmap [Github](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,566 | 🐛 93 | 🌐 Python | 📅 2022-11-27
-* 花书 Deep Learning 中文版 [Github](https://github.com/exacity/deeplearningbook-chinese) ⭐ 37,654 | 🐛 69 | 🌐 TeX | 📅 2019-12-03
-* awesome-deep-learning [Github](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,002 | 🐛 88 | 📅 2025-05-26
+* 伯克利课程 <动手学深度学习> [Github](https://github.com/d2l-ai/d2l-zh) ⭐ 81,355 | 🐛 127 | 🌐 Python | 📅 2024-07-30 [课程主页](http://courses.d2l.ai/berkeley-stat-157/) [bilibili](https://space.bilibili.com/209599371/channel/detail?cid=23541) [课件和习题](https://github.com/d2l-ai/berkeley-stat-157) ⭐ 4,026 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2021-02-16 [英文版](http://d2l.ai/) [中文版](http://zh.d2l.ai/) [PyTorch 版](https://github.com/dsgiitr/d2l-pytorch) ⭐ 4,368 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2024-07-25
+* 深度学习500问 [Github](https://github.com/scutan90/DeepLearning-500-questions) ⭐ 57,650 | 🐛 120 | 🌐 JavaScript | 📅 2024-06-26
+* Deep-Learning-Papers-Reading-Roadmap [Github](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) ⭐ 39,568 | 🐛 93 | 🌐 Python | 📅 2022-11-27
+* 花书 Deep Learning 中文版 [Github](https://github.com/exacity/deeplearningbook-chinese) ⭐ 37,667 | 🐛 69 | 🌐 TeX | 📅 2019-12-03
+* awesome-deep-learning [Github](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,004 | 🐛 88 | 📅 2025-05-26
 * (微软) AI-神经网络基本原理简明教程 [Github](https://github.com/microsoft/ai-edu/tree/master/) ⭐ 14,127 | 🐛 101 | 🌐 HTML | 📅 2024-05-16
 * 微软人工智能教育与学习共建社区 [Github](https://github.com/microsoft/ai-edu) ⭐ 14,127 | 🐛 101 | 🌐 HTML | 📅 2024-05-16
 * deep-learning-drizzle [Github](https://github.com/kmario23/deep-learning-drizzle) ⭐ 12,958 | 🐛 5 | 🌐 HTML | 📅 2026-08-22
-* An educational resource to help anyone learn deep reinforcement learning [Github](https://github.com/openai/spinningup) ⭐ 11,980 | 🐛 255 | 🌐 Python | 📅 2024-08-05
+* An educational resource to help anyone learn deep reinforcement learning [Github](https://github.com/openai/spinningup) ⭐ 11,979 | 🐛 255 | 🌐 Python | 📅 2024-08-05
 * 用Python实现"Pattern Recognition and Machine Learning”里的算法 [Github](https://github.com/ctgk/PRML) ⭐ 11,735 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2025-04-05
-* 《深度学习》圣经花书的数学推导、原理与Python代码实现 [Github](https://github.com/MingchaoZhu/DeepLearning) ⭐ 7,788 | 🐛 8 | 🌐 Python | 📅 2020-06-23
+* 《深度学习》圣经花书的数学推导、原理与Python代码实现 [Github](https://github.com/MingchaoZhu/DeepLearning) ⭐ 7,787 | 🐛 8 | 🌐 Python | 📅 2020-06-23
 * 深度神经网络中的一些模型进行统一的图示 [Github](https://github.com/weslynn/AlphaTree-graphic-deep-neural-network) ⭐ 3,017 | 🐛 7 | 📅 2026-05-11
 * five-days deep learning [website](https://mlelarge.github.io/dataflowr-web/cea_edf_inria.html) [Github](https://github.com/mlelarge/dataflowr) ⭐ 1,270 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-05-29
 * Learn\_Computer\_Vision [Github](https://github.com/llSourcell/Learn_Computer_Vision) ⭐ 1,121 | 🐛 6 | 📅 2021-08-12
 * 《Python深度学习》书籍 [Github](https://github.com/ChileWang0228/Deep-Learning-With-Python) ⭐ 641 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2024-01-30
-* 机器学习/计算机视觉/ NLP的论文及笔记 [Github](https://github.com/yassouali/ML_paper_notes) ⭐ 563 | 🐛 0 | 📅 2022-05-02
+* 机器学习/计算机视觉/ NLP的论文及笔记 [Github](https://github.com/yassouali/ML_paper_notes) ⭐ 562 | 🐛 0 | 📅 2022-05-02
 * Awesome\_Computer\_Vision [Github](https://github.com/ahong007007/Awesome_Computer_Vision) ⭐ 502 | 🐛 0 | 📅 2021-07-09
 * Explaining the Math of how neural networks learn [Github](https://github.com/omar-florez/scratch_mlp) ⭐ 378 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2020-01-15
 * 《Python深度学习算法实战(TensorFlow)》随书代码 [Github](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python) ⭐ 358 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2020-10-02
@@ -287,18 +287,18 @@
 
 ### 3. Pytorch Code
 
-* pytorch [Github](https://github.com/pytorch/pytorch) ⭐ 103,631 | 🐛 17,579 | 🌐 Python | 📅 2026-10-03 [Website](https://pytorch.org/)
-* pytorch-lightning [Github](https://github.com/PyTorchLightning/pytorch-lightning) ⭐ 31,372 | 🐛 1,095 | 🌐 Python | 📅 2026-09-21
+* pytorch [Github](https://github.com/pytorch/pytorch) ⭐ 103,667 | 🐛 17,595 | 🌐 Python | 📅 2026-10-03 [Website](https://pytorch.org/)
+* pytorch-lightning [Github](https://github.com/PyTorchLightning/pytorch-lightning) ⭐ 31,373 | 🐛 1,101 | 🌐 Python | 📅 2026-09-21
 * Offical pytorch examples [Github](https://github.com/pytorch/examples) ⭐ 24,053 | 🐛 254 | 🌐 Python | 📅 2025-09-01
 * PyTorch中文手册 [Github](https://github.com/zergtant/pytorch-handbook) ⭐ 21,722 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2024-07-25
-* Awesome-pytorch-list [Github](https://github.com/bharathgs/Awesome-pytorch-list) ⭐ 16,688 | 🐛 27 | 📅 2026-09-22
-* PyTorch 资源大列表中文版 [Github](https://github.com/bharathgs/Awesome-pytorch-list) ⭐ 16,688 | 🐛 27 | 📅 2026-09-22 [Github汉化](https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion) ⭐ 1,793 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-07-26
-* <深度学习框架PyTorch：入门与实践>的对应代码 [Github](https://github.com/chenyuntc/pytorch-book) ⭐ 12,844 | 🐛 133 | 🌐 Jupyter Notebook | 📅 2023-12-24
+* Awesome-pytorch-list [Github](https://github.com/bharathgs/Awesome-pytorch-list) ⭐ 16,689 | 🐛 27 | 📅 2026-09-22
+* PyTorch 资源大列表中文版 [Github](https://github.com/bharathgs/Awesome-pytorch-list) ⭐ 16,689 | 🐛 27 | 📅 2026-09-22 [Github汉化](https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion) ⭐ 1,793 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-07-26
+* <深度学习框架PyTorch：入门与实践>的对应代码 [Github](https://github.com/chenyuntc/pytorch-book) ⭐ 12,843 | 🐛 133 | 🌐 Jupyter Notebook | 📅 2023-12-24
 * fast.ai Computational Linear Algebra course [Github](https://github.com/fastai/numerical-linear-algebra) ⭐ 10,992 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2024-04-16
-* Offical pytorch tutorials [Github](https://github.com/pytorch/tutorials) ⭐ 9,353 | 🐛 267 | 🌐 Python | 📅 2026-09-30
+* Offical pytorch tutorials [Github](https://github.com/pytorch/tutorials) ⭐ 9,353 | 🐛 268 | 🌐 Python | 📅 2026-09-30
 * \<Pytorch模型训练实用教程>中配套代码 [Github](https://github.com/tensor-yu/PyTorch_Tutorial) ⭐ 8,018 | 🐛 34 | 🌐 Python | 📅 2026-10-01
-* stanford-cs-230-deep-learning [Github](https://github.com/afshinea/stanford-cs-230-deep-learning) ⭐ 7,111 | 🐛 7 | 📅 2020-05-20
-* Awesome-PyTorch-Chinese [Github](https://github.com/INTERMT/Awesome-PyTorch-Chinese) ⭐ 4,786 | 🐛 3 | 🌐 Python | 📅 2019-08-14
+* stanford-cs-230-deep-learning [Github](https://github.com/afshinea/stanford-cs-230-deep-learning) ⭐ 7,112 | 🐛 7 | 📅 2020-05-20
+* Awesome-PyTorch-Chinese [Github](https://github.com/INTERMT/Awesome-PyTorch-Chinese) ⭐ 4,785 | 🐛 3 | 🌐 Python | 📅 2019-08-14
 * code-of-learn-deep-learning-with-pytorch [Github](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch) ⭐ 2,870 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2024-03-04
 * An unofficial styleguide and best practices summary for PyTorch [Github](https://github.com/IgorSusmelj/pytorch-styleguide) ⭐ 2,020 | 🐛 9 | 🌐 Python | 📅 2021-12-28
 * 全栈深度学习训练营(课程视频)'Full Stack Deep Learning Bootcamp' [Github](https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project) ⭐ 1,227 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2022-06-14 [bilibili](https://www.bilibili.com/video/av49643298) [website](https://fullstackdeeplearning.com/march2019)
@@ -312,10 +312,10 @@
 
 ### 4. Tensorflow Code
 
-* Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2 [Github](https://github.com/ageron/handson-ml2) ⭐ 29,958 | 🐛 229 | 🌐 Jupyter Notebook | 📅 2026-05-19
+* Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2 [Github](https://github.com/ageron/handson-ml2) ⭐ 29,957 | 🐛 229 | 🌐 Jupyter Notebook | 📅 2026-05-19
 * TensorFlow 2.0 深度学习开源书 [Github](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) ⭐ 13,206 | 🐛 81 | 🌐 Jupyter Notebook | 📅 2021-08-30
 * 30天吃掉那只 TensorFlow2 [Github](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) ⭐ 9,914 | 🐛 28 | 🌐 Python | 📅 2022-09-22
-* tensorflow2中文教程 [Github](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese) ⭐ 7,771 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2020-12-09
+* tensorflow2中文教程 [Github](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese) ⭐ 7,770 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2020-12-09
 * 《动手学深度学习》TensorFlow 2.0实现 [Github](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0) ⭐ 3,821 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2023-03-17
 * Notebooks for my "Deep Learning with TensorFlow 2 and Keras" course [Github](https://github.com/ageron/tf2_course) ⭐ 1,907 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2023-05-23
 * TensorFlow-From-Zero-To-One [Github](https://github.com/amusi/TensorFlow-From-Zero-To-One) ⭐ 1,166 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-07-05
@@ -328,7 +328,7 @@
 ### 5. Online Course
 
 * 微软-计算机视觉最佳实践、代码示例和相关文档 [Github](https://github.com/microsoft/ComputerVision) ⭐ 9,893 | 🐛 113 | 🌐 Jupyter Notebook | 📅 2024-02-16
-* BiliBili公开课目录数学 [Github](https://github.com/wenhan-wu/OpenCourseCatalog) ⭐ 9,190 | 🐛 6 | 📅 2020-06-22
+* BiliBili公开课目录数学 [Github](https://github.com/wenhan-wu/OpenCourseCatalog) ⭐ 9,192 | 🐛 6 | 📅 2020-06-22
 * 伯克利课程深度无监督学习(2020) [bilibili](https://www.bilibili.com/video/av87459951)
   [bilibili](https://www.bilibili.com/video/BV197411M7gG/) [官方中文版讲义](https://atcold.github.io/pytorch-Deep-Learning/zh/) [课件](https://drive.google.com/drive/folders/1l3A1c_9RGdJclFJjejzWfLDsfJ95w7r8) [GitHub](https://github.com/Atcold/pytorch-Deep-Learning) ⭐ 6,808 | 🐛 62 | 🌐 Jupyter Notebook | 📅 2025-06-16 [Reddit](https://www.reddit.com/r/NYU_DeepLearning/)
 * 人工智能课程列表：斯坦福、MIT、UC Berkeley等顶校的开放式深度学习和强化学习课程 [Github](https://github.com/Machine-Learning-Tokyo/AI_Curriculum) ⭐ 2,568 | 🐛 2 | 📅 2021-04-02
@@ -370,26 +370,26 @@
 
 ## C/C++
 
-* 手把手撕LeetCode题目 [Github](https://github.com/labuladong/fucking-algorithm) ⭐ 136,073 | 🐛 1 | 🌐 Markdown | 📅 2026-02-28
-* fucking-algorithm [Github](https://github.com/labuladong/fucking-algorithm) ⭐ 136,073 | 🐛 1 | 🌐 Markdown | 📅 2026-02-28
-* LeetCode动画 [Github](https://github.com/MisterBooo/LeetCodeAnimation) ⭐ 76,714 | 🐛 23 | 🌐 Java | 📅 2026-06-12
+* 手把手撕LeetCode题目 [Github](https://github.com/labuladong/fucking-algorithm) ⭐ 136,079 | 🐛 1 | 🌐 Markdown | 📅 2026-02-28
+* fucking-algorithm [Github](https://github.com/labuladong/fucking-algorithm) ⭐ 136,079 | 🐛 1 | 🌐 Markdown | 📅 2026-02-28
+* LeetCode动画 [Github](https://github.com/MisterBooo/LeetCodeAnimation) ⭐ 76,713 | 🐛 23 | 🌐 Java | 📅 2026-06-12
 * leetcode题解，记录自己的leetcode解题之路 [Github](https://github.com/azl397985856/leetcode) ⭐ 55,728 | 🐛 13 | 🌐 JavaScript | 📅 2025-07-16
 * leetcode [Github](https://github.com/azl397985856/leetcode) ⭐ 55,728 | 🐛 13 | 🌐 JavaScript | 📅 2025-07-16
-* algorithm-visualizer [Github](https://github.com/algorithm-visualizer/algorithm-visualizer) ⭐ 48,876 | 🐛 80 | 🌐 JavaScript | 📅 2024-06-09
+* algorithm-visualizer [Github](https://github.com/algorithm-visualizer/algorithm-visualizer) ⭐ 48,880 | 🐛 80 | 🌐 JavaScript | 📅 2024-06-09
 * C/C++面试基础知识总结 [Github](https://github.com/huihut/interview) ⭐ 38,237 | 🐛 1 | 🌐 C++ | 📅 2026-09-17
-* LeetCode in Go [Github](https://github.com/halfrost/LeetCode-Go) ⭐ 33,811 | 🐛 5 | 🌐 Go | 📅 2026-09-11
+* LeetCode in Go [Github](https://github.com/halfrost/LeetCode-Go) ⭐ 33,814 | 🐛 5 | 🌐 Go | 📅 2026-09-11
 * learnOpencv [Github](https://github.com/spmallick/learnopencv) ⭐ 23,181 | 🐛 220 | 🌐 Jupyter Notebook | 📅 2026-09-20
 * 数据结构和算法必知必会的50个代码实现 [Github](https://github.com/wangzheng0822/algo) ⭐ 23,136 | 🐛 160 | 🌐 Python | 📅 2024-08-21
 * LeetCode All In One [Github](https://github.com/grandyang/leetcode/blob/master/README-CN.md) ⭐ 6,187 | 🐛 2,014 | 📅 2024-12-29
 * Solutions to Introduction to Algorithms Third Edition [Github](https://github.com/walkccc/CLRS/) ⭐ 5,120 | 🐛 111 | 🌐 Markdown | 📅 2026-06-08 [Blog](https://walkccc.github.io/CLRS/)
-* <算法导论>的C++实现代码 [Github](https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms) ⭐ 4,058 | 🐛 7 | 🌐 C++ | 📅 2024-03-14
+* <算法导论>的C++实现代码 [Github](https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms) ⭐ 4,059 | 🐛 7 | 🌐 C++ | 📅 2024-03-14
 * C/C++问题总结 [Github](https://github.com/linw7/Skill-Tree/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80C++.md) ⭐ 3,711 | 🐛 7 | 🌐 C | 📅 2020-03-03
 * Data Structure and Algorithm notes数据结构与算法/leetcode/lintcode题解 [Github](https://github.com/billryan/algorithm-exercise) ⭐ 3,490 | 🐛 9 | 🌐 Python | 📅 2022-07-28
 * LeetCode solutions in C++ 11 and Python3 [Github](https://github.com/pezy/LeetCode) ⭐ 3,453 | 🐛 6 | 🌐 C++ | 📅 2023-10-19
 * Leetcode 题解代码仓(C++) [Github](https://github.com/liuyubobobo/Play-Leetcode) ⭐ 2,721 | 🐛 1 | 🌐 C++ | 📅 2023-11-09
 * Play Leetcode with different Programming language [Github](https://github.com/luliyucoordinate/Leetcode) ⭐ 1,478 | 🐛 0 | 🌐 C++ | 📅 2023-05-24
 * LeetCode, HackRank, 剑指offer, classic algorithm implementation (C++) [Github](https://github.com/knightsj/awesome-algorithm-question-solution) ⭐ 1,138 | 🐛 12 | 🌐 C++ | 📅 2023-03-10
-* 面试高频算法题总结，个人博客 [Github](https://github.com/Making-It/Code) ⭐ 1,131 | 🐛 4 | 🌐 C++ | 📅 2025-10-22
+* 面试高频算法题总结，个人博客 [Github](https://github.com/Making-It/Code) ⭐ 1,132 | 🐛 4 | 🌐 C++ | 📅 2025-10-22
 * leetcode 1\~400知识点&题型总结\&leetcode对应题表 [Github](https://github.com/huxiaoman7/leetcodebook) ⭐ 588 | 🐛 2 | 🌐 Python | 📅 2026-07-09
 * 基于OpenCV4.0 C++/Python SDK的案例代码演示程序与效果图像 [Github](https://github.com/gloomyfish1998/opencv_tutorial) ⭐ 543 | 🐛 4 | 🌐 C++ | 📅 2023-12-13
 * 常见C++笔试面试题整理 [zhihu](https://zhuanlan.zhihu.com/p/69999591)
@@ -401,10 +401,10 @@
 
 ## Python
 
-* A curated list of awesome Python frameworks, libraries, software and resources [Github](https://github.com/vinta/awesome-python) ⭐ 324,779 | 🐛 21 | 🌐 Python | 📅 2026-10-02
-* All Algorithms implemented in Python [Github](https://github.com/TheAlgorithms/Python) ⭐ 225,217 | 🐛 7 | 🌐 Python | 📅 2026-10-01
-* Python - 100天从新手到大师 [Github](https://github.com/jackfrued/Python-100-Days) ⭐ 187,039 | 🐛 716 | 🌐 Jupyter Notebook | 📅 2026-07-29
-* 和小浩学算法 [Github](https://github.com/geekxh/hello-algorithm) ⭐ 36,110 | 🐛 11 | 🌐 Java | 📅 2023-06-13
+* A curated list of awesome Python frameworks, libraries, software and resources [Github](https://github.com/vinta/awesome-python) ⭐ 324,902 | 🐛 22 | 🌐 Python | 📅 2026-10-02
+* All Algorithms implemented in Python [Github](https://github.com/TheAlgorithms/Python) ⭐ 225,224 | 🐛 5 | 🌐 Python | 📅 2026-10-03
+* Python - 100天从新手到大师 [Github](https://github.com/jackfrued/Python-100-Days) ⭐ 187,049 | 🐛 716 | 🌐 Jupyter Notebook | 📅 2026-07-29
+* 和小浩学算法 [Github](https://github.com/geekxh/hello-algorithm) ⭐ 36,112 | 🐛 11 | 🌐 Java | 📅 2023-06-13
 * 关于Python的面试题1 [Github](https://github.com/taizilongxu/interview_python) ⭐ 17,399 | 🐛 34 | 🌐 Shell | 📅 2025-03-05
 * wtfpython的中文翻译 [Github](https://github.com/leisurelicht/wtfpython-cn) ⭐ 12,704 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-11-29
 * LeetCode, HackRank, 剑指offer, classic algorithm implementation (Python) [Github](https://github.com/apachecn/awesome-algorithm) ⭐ 11,156 | 🐛 4 | 🌐 JavaScript | 📅 2024-06-19
@@ -454,7 +454,7 @@
 ## Resume Template
 
 * 程序员简历模板系列 [Github](https://github.com/geekcompany/ResumeSample) ⭐ 28,329 | 🐛 11 | 📅 2024-08-14
-* Awesome Resume for Chinese [Github](https://github.com/dyweb/awesome-resume-for-chinese) ⭐ 8,508 | 🐛 4 | 📅 2026-07-22
+* Awesome Resume for Chinese [Github](https://github.com/dyweb/awesome-resume-for-chinese) ⭐ 8,512 | 🐛 4 | 📅 2026-07-22
 * AI算法岗简历模板 [Github](https://github.com/amusi/AI-Job-Resume) ⭐ 721 | 🐛 0 | 📅 2019-08-19
 * 个人简历模板 [Github](https://github.com/ikym/resume)
 * 如何写一份专业的技术简历 [Website](https://mp.weixin.qq.com/s?__biz=MzA5NDk4NDcwMw==\&mid=2651388719\&idx=1\&sn=84ec4d342f85199b7f4dd5bdaa535949\&chksm=8bba1bbfbccd92a9425c7dd0efdf4924c0308bb62ee6808f202c7a8f52fd6b78e43ed954bbb9\&scene=0\&xtrack=1\&key=ff1b1d089c15295c18c4772c5513870b3f444ddfc7eedefb34d50858e7be4c2d678cac2b24aa0356f577aa7c34a5bacdfdcac62bace0a0b7ec262694292724fd25f4c1ec3d115ad041ea0fc899723239\&ascene=14\&uin=MTM2NDUyMTkxOQ%3D%3D\&devicetype=Windows+10\&version=62070158\&lang=zh_CN\&exportkey=AzjSleucIgNxHjJEKgZIQkc%3D\&pass_ticket=isK%2FwATeORDKA144xaM2%2FZkXRQIChncFMP25btSedNMCRsZBUEgl7YxoVEFxq8eQ)
@@ -463,24 +463,24 @@
 
 ## Others
 
-* A complete computer science study plan to become a software engineer. [Github](https://github.com/jwasham/coding-interview-university) ⭐ 362,262 | 🐛 127 | 📅 2025-08-28
-* coding interview university [Github](https://github.com/jwasham/coding-interview-university) ⭐ 362,262 | 🐛 127 | 📅 2025-08-28
-* Materials to help you rock your next coding interview [Github](https://github.com/yangshun/tech-interview-handbook) ⭐ 143,099 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-07
+* A complete computer science study plan to become a software engineer. [Github](https://github.com/jwasham/coding-interview-university) ⭐ 362,283 | 🐛 127 | 📅 2025-08-28
+* coding interview university [Github](https://github.com/jwasham/coding-interview-university) ⭐ 362,283 | 🐛 127 | 📅 2025-08-28
+* Materials to help you rock your next coding interview [Github](https://github.com/yangshun/tech-interview-handbook) ⭐ 143,110 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-07
 * awesome-interview-questions [Github](https://github.com/MaximAbramchuck/awesome-interview-questions) ⚠️ Archived
-* Everything you need to know to get the job [Github](https://github.com/kdn251/interviews) ⭐ 65,264 | 🐛 122 | 🌐 Java | 📅 2025-05-12
-* 浙江大学课程攻略共享计划 [Github](https://github.com/QSCTech/zju-icicles) ⭐ 41,145 | 🐛 12 | 🌐 HTML | 📅 2026-09-07
-* 清华大学计算机系课程攻略 [Github](https://github.com/PKUanonym/REKCARC-TSC-UHT) ⭐ 37,662 | 🐛 4 | 🌐 HTML | 📅 2026-09-17
-* 北京大学课程资料整理 [Github](https://github.com/lib-pku/libpku) ⭐ 34,056 | 🐛 14 | 🌐 TeX | 📅 2022-01-05
-* 编程竞赛 OI Wiki [Github](https://github.com/24OI/OI-wiki) ⭐ 26,801 | 🐛 141 | 🌐 TypeScript | 📅 2026-10-02
-* Curated list of resources for college students [Github](https://github.com/dipakkr/A-to-Z-Resources-for-Students) ⭐ 22,312 | 🐛 55 | 📅 2026-06-17
-* Everything you need to prepare for your technical interview [Github](https://github.com/andreis/interview) ⭐ 18,368 | 🐛 15 | 📅 2024-12-25
-* 专为程序员编写的英语学习指南 [Github](https://github.com/yujiangshui/A-Programmers-Guide-to-English) ⭐ 16,866 | 🐛 10 | 📅 2023-01-28
-* 中国科学技术大学课程资源 [Github](https://github.com/USTC-Resource/USTC-Course) ⭐ 16,297 | 🐛 0 | 🌐 C++ | 📅 2025-08-19
+* Everything you need to know to get the job [Github](https://github.com/kdn251/interviews) ⭐ 65,260 | 🐛 122 | 🌐 Java | 📅 2025-05-12
+* 浙江大学课程攻略共享计划 [Github](https://github.com/QSCTech/zju-icicles) ⭐ 41,150 | 🐛 12 | 🌐 HTML | 📅 2026-09-07
+* 清华大学计算机系课程攻略 [Github](https://github.com/PKUanonym/REKCARC-TSC-UHT) ⭐ 37,664 | 🐛 4 | 🌐 HTML | 📅 2026-09-17
+* 北京大学课程资料整理 [Github](https://github.com/lib-pku/libpku) ⭐ 34,058 | 🐛 14 | 🌐 TeX | 📅 2022-01-05
+* 编程竞赛 OI Wiki [Github](https://github.com/24OI/OI-wiki) ⭐ 26,809 | 🐛 137 | 🌐 TypeScript | 📅 2026-10-03
+* Curated list of resources for college students [Github](https://github.com/dipakkr/A-to-Z-Resources-for-Students) ⭐ 22,315 | 🐛 56 | 📅 2026-06-17
+* Everything you need to prepare for your technical interview [Github](https://github.com/andreis/interview) ⭐ 18,370 | 🐛 15 | 📅 2024-12-25
+* 专为程序员编写的英语学习指南 [Github](https://github.com/yujiangshui/A-Programmers-Guide-to-English) ⭐ 16,865 | 🐛 10 | 📅 2023-01-28
+* 中国科学技术大学课程资源 [Github](https://github.com/USTC-Resource/USTC-Course) ⭐ 16,302 | 🐛 0 | 🌐 C++ | 📅 2025-08-19
 * Learn Vim (the Smart Way)：Vim学习手册 [Github](https://github.com/iggredible/Learn-Vim) ⭐ 15,245 | 🐛 18 | 🌐 Dockerfile | 📅 2026-09-07
 * 计算机速成课(全40集) [Github](https://github.com/1c7/crash-course-computer-science-chinese) ⭐ 10,923 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-28
 * 计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹） [Github](https://github.com/SSHeRun/CS-Xmind-Note) ⭐ 10,762 | 🐛 9 | 📅 2023-02-28
 * 计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结 [Github](https://github.com/wolverinn/Waking-Up) ⭐ 10,297 | 🐛 21 | 📅 2024-10-29
-* 上海交通大学课程资料分享 [Github](https://github.com/CoolPhilChen/SJTU-Courses/) ⭐ 9,679 | 🐛 5 | 📅 2020-04-17
+* 上海交通大学课程资料分享 [Github](https://github.com/CoolPhilChen/SJTU-Courses/) ⭐ 9,683 | 🐛 5 | 📅 2020-04-17
 * 清华大神的计算机自学笔记 [Github](https://github.com/huangrt01/CS-Notes) ⭐ 3,999 | 🐛 6 | 🌐 Python | 📅 2026-10-02
 * Awesome Programming Books [Github](https://github.com/majikarp/awesome-programming-books#id-section2) ⭐ 2,117 | 🐛 6 | 📅 2023-10-24
 * Study materials for SE/CS technical interviews [Github](https://github.com/jdsutton/Technical-Interview-Megarepo) ⭐ 1,626 | 🐛 6 | 📅 2023-05-08
