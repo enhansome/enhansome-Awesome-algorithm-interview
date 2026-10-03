@@ -4,482 +4,11 @@
       "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "算法工程师",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "lcylmhlcy/Awesome-algorithm-interview",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "算法工程师(人工智能CV方向)面试问题及相关资料",
-                "homepage": null,
-                "id": 167306853,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-08-18T18:21:48Z",
-                "open_issues": 2,
-                "owner": "lcylmhlcy",
-                "repo": "Awesome-algorithm-interview",
-                "stars": 3042,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:09:12.080Z"
-            },
-            {
-              "node_type": "item",
-              "title": "牛客网",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "算法工程师(人工智能CV方向)面试问题及相关资料",
-                "homepage": null,
-                "id": 167306853,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-08-18T18:21:48Z",
-                "open_issues": 2,
-                "owner": "lcylmhlcy",
-                "repo": "Awesome-algorithm-interview",
-                "stars": 3042,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:09:12.080Z"
-            },
-            {
-              "node_type": "item",
-              "title": "知乎",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "算法工程师(人工智能CV方向)面试问题及相关资料",
-                "homepage": null,
-                "id": 167306853,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-08-18T18:21:48Z",
-                "open_issues": 2,
-                "owner": "lcylmhlcy",
-                "repo": "Awesome-algorithm-interview",
-                "stars": 3042,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:09:12.080Z"
-            },
-            {
-              "node_type": "item",
-              "title": "个人博客",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "算法工程师(人工智能CV方向)面试问题及相关资料",
-                "homepage": null,
-                "id": 167306853,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-08-18T18:21:48Z",
-                "open_issues": 2,
-                "owner": "lcylmhlcy",
-                "repo": "Awesome-algorithm-interview",
-                "stars": 3042,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:09:12.080Z"
-            },
-            {
-              "node_type": "item",
-              "title": "其它",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "算法工程师(人工智能CV方向)面试问题及相关资料",
-                "homepage": null,
-                "id": 167306853,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-08-18T18:21:48Z",
-                "open_issues": 2,
-                "owner": "lcylmhlcy",
-                "repo": "Awesome-algorithm-interview",
-                "stars": 3042,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:09:12.080Z"
-            }
-          ],
-          "repo_info": {
-            "archived": false,
-            "description": "算法工程师(人工智能CV方向)面试问题及相关资料",
-            "homepage": null,
-            "id": 167306853,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-08-18T18:21:48Z",
-            "open_issues": 2,
-            "owner": "lcylmhlcy",
-            "repo": "Awesome-algorithm-interview",
-            "stars": 3042,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:09:12.080Z"
-        },
-        {
-          "node_type": "item",
-          "title": "机器学习",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "面试问题",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "算法工程师(人工智能CV方向)面试问题及相关资料",
-                "homepage": null,
-                "id": 167306853,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-08-18T18:21:48Z",
-                "open_issues": 2,
-                "owner": "lcylmhlcy",
-                "repo": "Awesome-algorithm-interview",
-                "stars": 3042,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:09:12.080Z"
-            },
-            {
-              "node_type": "item",
-              "title": "资料",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "算法工程师(人工智能CV方向)面试问题及相关资料",
-                "homepage": null,
-                "id": 167306853,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-08-18T18:21:48Z",
-                "open_issues": 2,
-                "owner": "lcylmhlcy",
-                "repo": "Awesome-algorithm-interview",
-                "stars": 3042,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:09:12.080Z"
-            },
-            {
-              "node_type": "item",
-              "title": "代码实战",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "算法工程师(人工智能CV方向)面试问题及相关资料",
-                "homepage": null,
-                "id": 167306853,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-08-18T18:21:48Z",
-                "open_issues": 2,
-                "owner": "lcylmhlcy",
-                "repo": "Awesome-algorithm-interview",
-                "stars": 3042,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:09:12.080Z"
-            },
-            {
-              "node_type": "item",
-              "title": "网课",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "算法工程师(人工智能CV方向)面试问题及相关资料",
-                "homepage": null,
-                "id": 167306853,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-08-18T18:21:48Z",
-                "open_issues": 2,
-                "owner": "lcylmhlcy",
-                "repo": "Awesome-algorithm-interview",
-                "stars": 3042,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:09:12.080Z"
-            }
-          ],
-          "repo_info": {
-            "archived": false,
-            "description": "算法工程师(人工智能CV方向)面试问题及相关资料",
-            "homepage": null,
-            "id": 167306853,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-08-18T18:21:48Z",
-            "open_issues": 2,
-            "owner": "lcylmhlcy",
-            "repo": "Awesome-algorithm-interview",
-            "stars": 3042,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:09:12.080Z"
-        },
-        {
-          "node_type": "item",
-          "title": "深度学习",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "面试",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "算法工程师(人工智能CV方向)面试问题及相关资料",
-                "homepage": null,
-                "id": 167306853,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-08-18T18:21:48Z",
-                "open_issues": 2,
-                "owner": "lcylmhlcy",
-                "repo": "Awesome-algorithm-interview",
-                "stars": 3042,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:09:12.080Z"
-            },
-            {
-              "node_type": "item",
-              "title": "资料",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "算法工程师(人工智能CV方向)面试问题及相关资料",
-                "homepage": null,
-                "id": 167306853,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-08-18T18:21:48Z",
-                "open_issues": 2,
-                "owner": "lcylmhlcy",
-                "repo": "Awesome-algorithm-interview",
-                "stars": 3042,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:09:12.080Z"
-            },
-            {
-              "node_type": "item",
-              "title": "代码实战 Pytorch",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "算法工程师(人工智能CV方向)面试问题及相关资料",
-                "homepage": null,
-                "id": 167306853,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-08-18T18:21:48Z",
-                "open_issues": 2,
-                "owner": "lcylmhlcy",
-                "repo": "Awesome-algorithm-interview",
-                "stars": 3042,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:09:12.080Z"
-            },
-            {
-              "node_type": "item",
-              "title": "代码实战 Tensorflow",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "算法工程师(人工智能CV方向)面试问题及相关资料",
-                "homepage": null,
-                "id": 167306853,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-08-18T18:21:48Z",
-                "open_issues": 2,
-                "owner": "lcylmhlcy",
-                "repo": "Awesome-algorithm-interview",
-                "stars": 3042,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:09:12.080Z"
-            },
-            {
-              "node_type": "item",
-              "title": "网课",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "算法工程师(人工智能CV方向)面试问题及相关资料",
-                "homepage": null,
-                "id": 167306853,
-                "language": null,
-                "license": null,
-                "last_commit": "2024-08-18T18:21:48Z",
-                "open_issues": 2,
-                "owner": "lcylmhlcy",
-                "repo": "Awesome-algorithm-interview",
-                "stars": 3042,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:09:12.080Z"
-            }
-          ],
-          "repo_info": {
-            "archived": false,
-            "description": "算法工程师(人工智能CV方向)面试问题及相关资料",
-            "homepage": null,
-            "id": 167306853,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-08-18T18:21:48Z",
-            "open_issues": 2,
-            "owner": "lcylmhlcy",
-            "repo": "Awesome-algorithm-interview",
-            "stars": 3042,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:09:12.080Z"
-        },
-        {
-          "node_type": "item",
-          "title": "C/C++",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "算法工程师(人工智能CV方向)面试问题及相关资料",
-            "homepage": null,
-            "id": 167306853,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-08-18T18:21:48Z",
-            "open_issues": 2,
-            "owner": "lcylmhlcy",
-            "repo": "Awesome-algorithm-interview",
-            "stars": 3042,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:09:12.080Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Python",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "算法工程师(人工智能CV方向)面试问题及相关资料",
-            "homepage": null,
-            "id": 167306853,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-08-18T18:21:48Z",
-            "open_issues": 2,
-            "owner": "lcylmhlcy",
-            "repo": "Awesome-algorithm-interview",
-            "stars": 3042,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:09:12.080Z"
-        },
-        {
-          "node_type": "item",
-          "title": "竞赛/比赛",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "算法工程师(人工智能CV方向)面试问题及相关资料",
-            "homepage": null,
-            "id": 167306853,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-08-18T18:21:48Z",
-            "open_issues": 2,
-            "owner": "lcylmhlcy",
-            "repo": "Awesome-algorithm-interview",
-            "stars": 3042,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:09:12.080Z"
-        },
-        {
-          "node_type": "item",
-          "title": "简历模板",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "算法工程师(人工智能CV方向)面试问题及相关资料",
-            "homepage": null,
-            "id": 167306853,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-08-18T18:21:48Z",
-            "open_issues": 2,
-            "owner": "lcylmhlcy",
-            "repo": "Awesome-algorithm-interview",
-            "stars": 3042,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:09:12.080Z"
-        },
-        {
-          "node_type": "item",
-          "title": "其它",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "算法工程师(人工智能CV方向)面试问题及相关资料",
-            "homepage": null,
-            "id": 167306853,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-08-18T18:21:48Z",
-            "open_issues": 2,
-            "owner": "lcylmhlcy",
-            "repo": "Awesome-algorithm-interview",
-            "stars": 3042,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T00:09:12.080Z"
-        }
-      ],
-      "title": "目录"
-    },
-    {
-      "description": null,
-      "items": [
-        {
           "children": [
             {
               "node_type": "item",
               "title": "技术面试必备基础知识 Github",
-              "description": null,
+              "description": "CyC2018/CS-Notes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -492,7 +21,7 @@
                 "open_issues": 197,
                 "owner": "CyC2018",
                 "repo": "CS-Notes",
-                "stars": 186370,
+                "stars": 186369,
                 "topics": [
                   "algorithm",
                   "computer-science",
@@ -509,7 +38,7 @@
             {
               "node_type": "item",
               "title": "2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总 Github",
-              "description": null,
+              "description": "0voice/interview_internal_reference",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -541,7 +70,7 @@
             {
               "node_type": "item",
               "title": "awesome-computer-vision Github",
-              "description": null,
+              "description": "jbhuang0604/awesome-computer-vision",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -562,7 +91,7 @@
             {
               "node_type": "item",
               "title": "互联网公司leetcode题目 Github",
-              "description": null,
+              "description": "afatcoder/LeetcodeTop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -575,7 +104,7 @@
                 "open_issues": 44,
                 "owner": "afatcoder",
                 "repo": "LeetcodeTop",
-                "stars": 20049,
+                "stars": 20050,
                 "topics": [
                   "interview",
                   "leetcode"
@@ -586,7 +115,7 @@
             {
               "node_type": "item",
               "title": "apachecn Interview Github",
-              "description": "Website",
+              "description": "apachecn/Interview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -599,7 +128,7 @@
                 "open_issues": 0,
                 "owner": "apachecn",
                 "repo": "Interview",
-                "stars": 8974,
+                "stars": 8973,
                 "topics": [
                   "interview",
                   "kaggle",
@@ -613,7 +142,7 @@
             {
               "node_type": "item",
               "title": "MVision-awesome Github",
-              "description": null,
+              "description": "Ewenwan/MVision",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -626,7 +155,7 @@
                 "open_issues": 19,
                 "owner": "Ewenwan",
                 "repo": "MVision",
-                "stars": 8736,
+                "stars": 8735,
                 "topics": [
                   "cnn",
                   "deep-learning",
@@ -675,7 +204,7 @@
             {
               "node_type": "item",
               "title": "Daily Interview Github",
-              "description": null,
+              "description": "datawhalechina/daily-interview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -701,7 +230,7 @@
             {
               "node_type": "item",
               "title": "2020年的算法实习岗位信息表，部分包括内推码，和常见深度学习算法岗面试题及答案，暑期计算机视觉实习面经和总结 Github",
-              "description": null,
+              "description": "harleyszhang/cv_note",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -729,7 +258,7 @@
             {
               "node_type": "item",
               "title": "计算机视觉算法岗知识点及面试问答汇总 Github",
-              "description": null,
+              "description": "GYee/CV_interviews_Q-A",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -750,7 +279,7 @@
             {
               "node_type": "item",
               "title": "2019届秋招面经集合 Github",
-              "description": null,
+              "description": "zslomo/2019-Autumn-recruitment-experience",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -771,7 +300,7 @@
             {
               "node_type": "item",
               "title": "算法工程师面试 Github",
-              "description": null,
+              "description": "PPshrimpGo/AIinterview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -792,7 +321,7 @@
             {
               "node_type": "item",
               "title": "CV岗常见面试题 Github",
-              "description": null,
+              "description": "donnyyou/cv-interview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -813,7 +342,7 @@
             {
               "node_type": "item",
               "title": "「面试算法练级攻略」-「LeetCode题解」-「剑指offer题解」 Github",
-              "description": null,
+              "description": "guokaide/algorithm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -840,7 +369,7 @@
             {
               "node_type": "item",
               "title": "算法/深度学习/NLP面试笔记 Github",
-              "description": null,
+              "description": "imhuay/sspace",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -861,7 +390,7 @@
             {
               "node_type": "item",
               "title": "阿里、腾讯、百度、华为、京东、搜狗和滴滴最新面试题汇集 Github",
-              "description": null,
+              "description": "xiaole0310/interview-",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -889,7 +418,7 @@
             {
               "node_type": "item",
               "title": "Solutions to Introduction to Algorithms Github",
-              "description": null,
+              "description": "gzc/CLRS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -923,7 +452,7 @@
             {
               "node_type": "item",
               "title": "machine-learning-interview-questions Github",
-              "description": null,
+              "description": "Sroy20/machine-learning-interview-questions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -944,7 +473,7 @@
             {
               "node_type": "item",
               "title": "机器学习面试复习资源 Github",
-              "description": null,
+              "description": "wangyuGithub01/Machine_Learning_Resources",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -965,7 +494,7 @@
             {
               "node_type": "item",
               "title": "【机器学习面试准备指南】 Github",
-              "description": null,
+              "description": "AstronomerAmber/ML_prep",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -993,7 +522,7 @@
             {
               "node_type": "item",
               "title": "Fit interpretable models. Explain blackbox machine learning. Github",
-              "description": null,
+              "description": "jwasham/coding-interview-university",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1006,7 +535,7 @@
                 "open_issues": 127,
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 362252,
+                "stars": 362262,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -1027,7 +556,7 @@
             {
               "node_type": "item",
               "title": "<机器学习>(西瓜书)公式推导解析 Github",
-              "description": null,
+              "description": "datawhalechina/pumpkin-book",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1052,7 +581,7 @@
             {
               "node_type": "item",
               "title": "<统计学习方法>第二版的代码实现 Github",
-              "description": null,
+              "description": "fengdu78/lihang-code",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1073,7 +602,7 @@
             {
               "node_type": "item",
               "title": "机器学习(Machine Learning) 深度学习(Deep Learning) NLP面试中常考到的知识点和代码实现 Github",
-              "description": null,
+              "description": "NLP-LOVE/ML-NLP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1098,7 +627,7 @@
             {
               "node_type": "item",
               "title": "List of Data Science Cheatsheets to rule the world Github",
-              "description": null,
+              "description": "FavioVazquez/ds-cheatsheets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1111,7 +640,7 @@
                 "open_issues": 13,
                 "owner": "FavioVazquez",
                 "repo": "ds-cheatsheets",
-                "stars": 16361,
+                "stars": 16362,
                 "topics": [
                   "cheatsheet",
                   "datascience",
@@ -1127,7 +656,7 @@
             {
               "node_type": "item",
               "title": "Your new Mentor for Data Science E-Learning Github",
-              "description": null,
+              "description": "virgili0/Virgilio",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1169,7 +698,7 @@
             {
               "node_type": "item",
               "title": "Your new Mentor for Data Science E-Learning. Github",
-              "description": null,
+              "description": "virgili0/Virgilio",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1211,7 +740,7 @@
             {
               "node_type": "item",
               "title": "PRML(python) Github",
-              "description": null,
+              "description": "ctgk/PRML",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1237,7 +766,7 @@
             {
               "node_type": "item",
               "title": "机器学习实战(Python3) Github",
-              "description": null,
+              "description": "Jack-Cherish/Machine-Learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1271,7 +800,7 @@
             {
               "node_type": "item",
               "title": "《Python 机器学习》 Github",
-              "description": null,
+              "description": "rasbt/python-machine-learning-book-2nd-edition",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1299,7 +828,7 @@
             {
               "node_type": "item",
               "title": "A Brief Introduction to Machine Learning for Engineers Github",
-              "description": null,
+              "description": "rasbt/python-machine-learning-book-2nd-edition",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1327,7 +856,7 @@
             {
               "node_type": "item",
               "title": "李航博士<统计学习方法>一书中所有算法python实现 Github",
-              "description": null,
+              "description": "WenDesi/lihang_book_algorithm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1348,7 +877,7 @@
             {
               "node_type": "item",
               "title": "Solutions to Introduction to Algorithms Third Edition Github",
-              "description": null,
+              "description": "walkccc/CLRS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1373,7 +902,7 @@
             {
               "node_type": "item",
               "title": "周志华《机器学习》手推笔记 Github",
-              "description": null,
+              "description": "Sophia-11/Machine-Learning-Notes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1401,7 +930,7 @@
             {
               "node_type": "item",
               "title": "王斌老师翻译的<机器学习实战>书python代码实现 Github",
-              "description": null,
+              "description": "wzy6642/Machine-Learning-in-Action-Python3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1425,7 +954,7 @@
             {
               "node_type": "item",
               "title": "Python3 入门机器学习 Github",
-              "description": null,
+              "description": "liuyubobobo/Play-with-Machine-Learning-Algorithms",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1452,7 +981,7 @@
             {
               "node_type": "item",
               "title": "DrWhy is the collection of tools for Explainable AI (XAI) Github",
-              "description": null,
+              "description": "ModelOriented/DrWhy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1465,7 +994,7 @@
                 "open_issues": 1,
                 "owner": "ModelOriented",
                 "repo": "DrWhy",
-                "stars": 689,
+                "stars": 688,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:12.080Z"
@@ -1473,7 +1002,7 @@
             {
               "node_type": "item",
               "title": "<数据科学实战>书代码 Github",
-              "description": null,
+              "description": "oreillymedia/doing_data_science",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1494,7 +1023,7 @@
             {
               "node_type": "item",
               "title": "PRML(python) Github",
-              "description": null,
+              "description": "amber-kshz/PRML",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1515,7 +1044,7 @@
             {
               "node_type": "item",
               "title": "李宏毅《机器学习》笔记 Github",
-              "description": null,
+              "description": "datawhalechina/leeml-notes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1543,7 +1072,7 @@
             {
               "node_type": "item",
               "title": "AiLearning- ML、深度学习 Github",
-              "description": null,
+              "description": "apachecn/ailearning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1585,7 +1114,7 @@
             {
               "node_type": "item",
               "title": "Homemade Machine Learning Github",
-              "description": null,
+              "description": "trekhleb/homemade-machine-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1614,7 +1143,7 @@
             {
               "node_type": "item",
               "title": "100-Days-Of-ML-Code中文版 Github",
-              "description": null,
+              "description": "MLEveryday/100-Days-Of-ML-Code",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1627,7 +1156,7 @@
                 "open_issues": 19,
                 "owner": "MLEveryday",
                 "repo": "100-Days-Of-ML-Code",
-                "stars": 22240,
+                "stars": 22241,
                 "topics": [
                   "100-days-of-ml-code",
                   "chinese-simplified",
@@ -1648,7 +1177,7 @@
             {
               "node_type": "item",
               "title": "Machine learning, in numpy Github",
-              "description": null,
+              "description": "ddbourgin/numpy-ml",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1689,7 +1218,7 @@
             {
               "node_type": "item",
               "title": "Machine-Learning-Study-Path-March-2019 Github",
-              "description": null,
+              "description": "virgili0/Virgilio",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1731,7 +1260,7 @@
             {
               "node_type": "item",
               "title": "机器学习算法python实现 Github",
-              "description": null,
+              "description": "lawlite19/MachineLearning_Python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1752,7 +1281,7 @@
             {
               "node_type": "item",
               "title": "A Machine Learning Course with Python Github",
-              "description": null,
+              "description": "instillai/machine-learning-course",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1779,7 +1308,7 @@
             {
               "node_type": "item",
               "title": "Python codes for common Machine Learning Algorithms Github",
-              "description": null,
+              "description": "susanli2016/Machine-Learning-with-Python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1815,7 +1344,7 @@
             {
               "node_type": "item",
               "title": "The best resources in Machine Learning & AI Github",
-              "description": "Website",
+              "description": "RemoteML/bestofml",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1851,7 +1380,7 @@
             {
               "node_type": "item",
               "title": "北欧概率AI学校课程资料 Github",
-              "description": null,
+              "description": "probabilisticai/probai-2019",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1880,7 +1409,7 @@
             {
               "node_type": "item",
               "title": "斯科尔科沃理工学院“数值线性代数”课程资料 Github",
-              "description": null,
+              "description": "oseledets/nla2020",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1914,7 +1443,7 @@
             {
               "node_type": "item",
               "title": "2020年的算法实习岗位信息表，部分包括内推码，和常见深度学习算法岗面试题及答案 Github",
-              "description": null,
+              "description": "harleyszhang/cv_note",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1942,7 +1471,7 @@
             {
               "node_type": "item",
               "title": "Deep Learning Interview 深度学习面试题目汇总 Github",
-              "description": null,
+              "description": "ShanghaiTechAIClub/DLInterview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1968,7 +1497,7 @@
             {
               "node_type": "item",
               "title": "深度学习面试问题 Github",
-              "description": null,
+              "description": "elviswf/DeepLearningBookQA_cn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2009,7 +1538,7 @@
                 "open_issues": 127,
                 "owner": "d2l-ai",
                 "repo": "d2l-zh",
-                "stars": 81324,
+                "stars": 81327,
                 "topics": [
                   "book",
                   "chinese",
@@ -2026,7 +1555,7 @@
             {
               "node_type": "item",
               "title": "深度学习500问 Github",
-              "description": null,
+              "description": "scutan90/DeepLearning-500-questions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2047,7 +1576,7 @@
             {
               "node_type": "item",
               "title": "Deep-Learning-Papers-Reading-Roadmap Github",
-              "description": null,
+              "description": "floodsung/Deep-Learning-Papers-Reading-Roadmap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2070,7 +1599,7 @@
             {
               "node_type": "item",
               "title": "花书 Deep Learning 中文版 Github",
-              "description": null,
+              "description": "exacity/deeplearningbook-chinese",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2091,7 +1620,7 @@
             {
               "node_type": "item",
               "title": "awesome-deep-learning Github",
-              "description": null,
+              "description": "ChristosChristofidis/awesome-deep-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2104,7 +1633,7 @@
                 "open_issues": 88,
                 "owner": "ChristosChristofidis",
                 "repo": "awesome-deep-learning",
-                "stars": 29000,
+                "stars": 29002,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2122,7 +1651,7 @@
             {
               "node_type": "item",
               "title": "(微软) AI-神经网络基本原理简明教程 Github",
-              "description": null,
+              "description": "microsoft/ai-edu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2143,7 +1672,7 @@
             {
               "node_type": "item",
               "title": "微软人工智能教育与学习共建社区 Github",
-              "description": null,
+              "description": "microsoft/ai-edu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2164,7 +1693,7 @@
             {
               "node_type": "item",
               "title": "deep-learning-drizzle Github",
-              "description": null,
+              "description": "kmario23/deep-learning-drizzle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2206,7 +1735,7 @@
             {
               "node_type": "item",
               "title": "An educational resource to help anyone learn deep reinforcement learning Github",
-              "description": null,
+              "description": "openai/spinningup",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2227,7 +1756,7 @@
             {
               "node_type": "item",
               "title": "用Python实现\"Pattern Recognition and Machine Learning”里的算法 Github",
-              "description": null,
+              "description": "ctgk/PRML",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2253,7 +1782,7 @@
             {
               "node_type": "item",
               "title": "《深度学习》圣经花书的数学推导、原理与Python代码实现 Github",
-              "description": null,
+              "description": "MingchaoZhu/DeepLearning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2282,7 +1811,7 @@
             {
               "node_type": "item",
               "title": "深度神经网络中的一些模型进行统一的图示 Github",
-              "description": null,
+              "description": "weslynn/AlphaTree-graphic-deep-neural-network",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2308,7 +1837,7 @@
             {
               "node_type": "item",
               "title": "five-days deep learning website",
-              "description": "Github",
+              "description": "dataflowr/notebooks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2333,7 +1862,7 @@
             {
               "node_type": "item",
               "title": "Learn_Computer_Vision Github",
-              "description": null,
+              "description": "llSourcell/Learn_Computer_Vision",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2354,7 +1883,7 @@
             {
               "node_type": "item",
               "title": "《Python深度学习》书籍 Github",
-              "description": null,
+              "description": "ChileWang0228/Deep-Learning-With-Python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2375,7 +1904,7 @@
             {
               "node_type": "item",
               "title": "机器学习/计算机视觉/ NLP的论文及笔记 Github",
-              "description": null,
+              "description": "yassouali/ML-paper-notes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2403,7 +1932,7 @@
             {
               "node_type": "item",
               "title": "Awesome_Computer_Vision Github",
-              "description": null,
+              "description": "ahong007007/awesomeCV",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2424,7 +1953,7 @@
             {
               "node_type": "item",
               "title": "Explaining the Math of how neural networks learn Github",
-              "description": null,
+              "description": "omar-florez/scratch_mlp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2445,7 +1974,7 @@
             {
               "node_type": "item",
               "title": "《Python深度学习算法实战(TensorFlow)》随书代码 Github",
-              "description": null,
+              "description": "sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2487,7 +2016,7 @@
             {
               "node_type": "item",
               "title": "【机器学习/深度学习报告、Kaggler优胜模型、深度学习最佳实践大列表】 Github",
-              "description": null,
+              "description": "wandb/awesome-dl-projects",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2508,7 +2037,7 @@
             {
               "node_type": "item",
               "title": "ML/DL学习笔记（基础+论文） Github",
-              "description": null,
+              "description": "lartpang/Machine-Deep-Learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2574,7 +2103,7 @@
             {
               "node_type": "item",
               "title": "pytorch Github",
-              "description": "Website",
+              "description": "pytorch/pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2583,11 +2112,11 @@
                 "id": 65600975,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T20:06:40Z",
-                "open_issues": 17594,
+                "last_commit": "2026-10-03T04:27:30Z",
+                "open_issues": 17579,
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 103621,
+                "stars": 103631,
                 "topics": [
                   "autograd",
                   "deep-learning",
@@ -2604,7 +2133,7 @@
             {
               "node_type": "item",
               "title": "pytorch-lightning Github",
-              "description": null,
+              "description": "Lightning-AI/pytorch-lightning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2614,10 +2143,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-21T11:44:30Z",
-                "open_issues": 1093,
+                "open_issues": 1095,
                 "owner": "Lightning-AI",
                 "repo": "pytorch-lightning",
-                "stars": 31370,
+                "stars": 31372,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -2633,7 +2162,7 @@
             {
               "node_type": "item",
               "title": "Offical pytorch examples Github",
-              "description": null,
+              "description": "pytorch/examples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2646,7 +2175,7 @@
                 "open_issues": 254,
                 "owner": "pytorch",
                 "repo": "examples",
-                "stars": 24052,
+                "stars": 24053,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:12.080Z"
@@ -2654,7 +2183,7 @@
             {
               "node_type": "item",
               "title": "PyTorch中文手册 Github",
-              "description": null,
+              "description": "zergtant/pytorch-handbook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2667,7 +2196,7 @@
                 "open_issues": 60,
                 "owner": "zergtant",
                 "repo": "pytorch-handbook",
-                "stars": 21721,
+                "stars": 21722,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -2682,7 +2211,7 @@
             {
               "node_type": "item",
               "title": "Awesome-pytorch-list Github",
-              "description": null,
+              "description": "bharathgs/Awesome-pytorch-list",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2695,7 +2224,7 @@
                 "open_issues": 27,
                 "owner": "bharathgs",
                 "repo": "Awesome-pytorch-list",
-                "stars": 16687,
+                "stars": 16688,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2737,7 +2266,7 @@
                 "open_issues": 27,
                 "owner": "bharathgs",
                 "repo": "Awesome-pytorch-list",
-                "stars": 16687,
+                "stars": 16688,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2766,7 +2295,7 @@
             {
               "node_type": "item",
               "title": "<深度学习框架PyTorch：入门与实践>的对应代码 Github",
-              "description": null,
+              "description": "chenyuntc/pytorch-book",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2804,7 +2333,7 @@
             {
               "node_type": "item",
               "title": "fast.ai Computational Linear Algebra course Github",
-              "description": null,
+              "description": "fastai/numerical-linear-algebra",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2833,7 +2362,7 @@
             {
               "node_type": "item",
               "title": "Offical pytorch tutorials Github",
-              "description": null,
+              "description": "pytorch/tutorials",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2854,7 +2383,7 @@
             {
               "node_type": "item",
               "title": "<Pytorch模型训练实用教程>中配套代码 Github",
-              "description": null,
+              "description": "TingsongYu/PyTorch_Tutorial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2875,7 +2404,7 @@
             {
               "node_type": "item",
               "title": "stanford-cs-230-deep-learning Github",
-              "description": null,
+              "description": "afshinea/stanford-cs-230-deep-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2888,7 +2417,7 @@
                 "open_issues": 7,
                 "owner": "afshinea",
                 "repo": "stanford-cs-230-deep-learning",
-                "stars": 7110,
+                "stars": 7111,
                 "topics": [
                   "cheatsheet",
                   "convolutional-neural-networks",
@@ -2902,7 +2431,7 @@
             {
               "node_type": "item",
               "title": "Awesome-PyTorch-Chinese Github",
-              "description": null,
+              "description": "INTERMT/Awesome-PyTorch-Chinese",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2928,7 +2457,7 @@
             {
               "node_type": "item",
               "title": "code-of-learn-deep-learning-with-pytorch Github",
-              "description": null,
+              "description": "L1aoXingyu/code-of-learn-deep-learning-with-pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2953,7 +2482,7 @@
             {
               "node_type": "item",
               "title": "An unofficial styleguide and best practices summary for PyTorch Github",
-              "description": null,
+              "description": "IgorSusmelj/pytorch-styleguide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3001,7 +2530,7 @@
             {
               "node_type": "item",
               "title": "First steps towards Deep Learning with pyTorch Github",
-              "description": null,
+              "description": "vaibhawvipul/First-steps-towards-Deep-Learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3036,7 +2565,7 @@
             {
               "node_type": "item",
               "title": "Build-an-AI-Startup-with-PyTorch Github",
-              "description": null,
+              "description": "llSourcell/Build-an-AI-Startup-with-PyTorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3064,7 +2593,7 @@
             {
               "node_type": "item",
               "title": "Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2 Github",
-              "description": null,
+              "description": "ageron/handson-ml2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3077,7 +2606,7 @@
                 "open_issues": 229,
                 "owner": "ageron",
                 "repo": "handson-ml2",
-                "stars": 29959,
+                "stars": 29958,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:12.080Z"
@@ -3085,7 +2614,7 @@
             {
               "node_type": "item",
               "title": "TensorFlow 2.0 深度学习开源书 Github",
-              "description": null,
+              "description": "dragen1860/Deep-Learning-with-TensorFlow-book",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3115,7 +2644,7 @@
             {
               "node_type": "item",
               "title": "30天吃掉那只 TensorFlow2 Github",
-              "description": null,
+              "description": "lyhue1991/eat_tensorflow2_in_30_days",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3141,7 +2670,7 @@
             {
               "node_type": "item",
               "title": "tensorflow2中文教程 Github",
-              "description": null,
+              "description": "czy36mengfei/tensorflow2_tutorials_chinese",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3162,7 +2691,7 @@
             {
               "node_type": "item",
               "title": "《动手学深度学习》TensorFlow 2.0实现 Github",
-              "description": null,
+              "description": "TrickyGo/Dive-into-DL-TensorFlow2.0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3194,7 +2723,7 @@
             {
               "node_type": "item",
               "title": "Notebooks for my \"Deep Learning with TensorFlow 2 and Keras\" course Github",
-              "description": null,
+              "description": "ageron/tf2_course",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3215,7 +2744,7 @@
             {
               "node_type": "item",
               "title": "TensorFlow-From-Zero-To-One Github",
-              "description": null,
+              "description": "amusi/TensorFlow-From-Zero-To-One",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3243,7 +2772,7 @@
             {
               "node_type": "item",
               "title": "TensorFlow2.0 官方教程翻译 Github",
-              "description": null,
+              "description": "mashangxue/tensorflow2-zh",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3271,7 +2800,7 @@
             {
               "node_type": "item",
               "title": "微软-计算机视觉最佳实践、代码示例和相关文档 Github",
-              "description": null,
+              "description": "microsoft/computervision-recipes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3310,7 +2839,7 @@
             {
               "node_type": "item",
               "title": "BiliBili公开课目录数学 Github",
-              "description": null,
+              "description": "elder-frog/OpenCourseCatalog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3361,7 +2890,7 @@
             {
               "node_type": "item",
               "title": "人工智能课程列表：斯坦福、MIT、UC Berkeley等顶校的开放式深度学习和强化学习课程 Github",
-              "description": null,
+              "description": "Machine-Learning-Tokyo/AI_Curriculum",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3414,7 +2943,7 @@
         {
           "node_type": "item",
           "title": "手把手撕LeetCode题目 Github",
-          "description": null,
+          "description": "labuladong/fucking-algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3427,7 +2956,7 @@
             "open_issues": 1,
             "owner": "labuladong",
             "repo": "fucking-algorithm",
-            "stars": 136072,
+            "stars": 136073,
             "topics": [
               "algorithms",
               "computer-science",
@@ -3444,7 +2973,7 @@
         {
           "node_type": "item",
           "title": "fucking-algorithm Github",
-          "description": null,
+          "description": "labuladong/fucking-algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3457,7 +2986,7 @@
             "open_issues": 1,
             "owner": "labuladong",
             "repo": "fucking-algorithm",
-            "stars": 136072,
+            "stars": 136073,
             "topics": [
               "algorithms",
               "computer-science",
@@ -3474,7 +3003,7 @@
         {
           "node_type": "item",
           "title": "LeetCode动画 Github",
-          "description": null,
+          "description": "MisterBooo/LeetCodeAnimation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3487,7 +3016,7 @@
             "open_issues": 23,
             "owner": "MisterBooo",
             "repo": "LeetCodeAnimation",
-            "stars": 76712,
+            "stars": 76714,
             "topics": [
               "animation",
               "leetcode",
@@ -3501,7 +3030,7 @@
         {
           "node_type": "item",
           "title": "leetcode题解，记录自己的leetcode解题之路 Github",
-          "description": null,
+          "description": "azl397985856/leetcode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3514,7 +3043,7 @@
             "open_issues": 13,
             "owner": "azl397985856",
             "repo": "leetcode",
-            "stars": 55730,
+            "stars": 55728,
             "topics": [
               "algo",
               "algorithm",
@@ -3537,7 +3066,7 @@
         {
           "node_type": "item",
           "title": "leetcode Github",
-          "description": null,
+          "description": "azl397985856/leetcode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3550,7 +3079,7 @@
             "open_issues": 13,
             "owner": "azl397985856",
             "repo": "leetcode",
-            "stars": 55730,
+            "stars": 55728,
             "topics": [
               "algo",
               "algorithm",
@@ -3573,7 +3102,7 @@
         {
           "node_type": "item",
           "title": "algorithm-visualizer Github",
-          "description": null,
+          "description": "algorithm-visualizer/algorithm-visualizer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3599,7 +3128,7 @@
         {
           "node_type": "item",
           "title": "C/C++面试基础知识总结 Github",
-          "description": null,
+          "description": "huihut/interview",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3634,7 +3163,7 @@
         {
           "node_type": "item",
           "title": "LeetCode in Go Github",
-          "description": null,
+          "description": "halfrost/LeetCode-Go",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3674,7 +3203,7 @@
         {
           "node_type": "item",
           "title": "learnOpencv Github",
-          "description": null,
+          "description": "spmallick/learnopencv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3709,7 +3238,7 @@
         {
           "node_type": "item",
           "title": "数据结构和算法必知必会的50个代码实现 Github",
-          "description": null,
+          "description": "wangzheng0822/algo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3730,7 +3259,7 @@
         {
           "node_type": "item",
           "title": "LeetCode All In One Github",
-          "description": null,
+          "description": "grandyang/leetcode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3785,7 +3314,7 @@
         {
           "node_type": "item",
           "title": "<算法导论>的C++实现代码 Github",
-          "description": null,
+          "description": "huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3806,7 +3335,7 @@
         {
           "node_type": "item",
           "title": "C/C++问题总结 Github",
-          "description": null,
+          "description": "linw7/Skill-Tree",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3827,7 +3356,7 @@
         {
           "node_type": "item",
           "title": "Data Structure and Algorithm notes数据结构与算法/leetcode/lintcode题解 Github",
-          "description": null,
+          "description": "billryan/algorithm-exercise",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3852,7 +3381,7 @@
         {
           "node_type": "item",
           "title": "LeetCode solutions in C++ 11 and Python3 Github",
-          "description": null,
+          "description": "pezy/LeetCode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3879,7 +3408,7 @@
         {
           "node_type": "item",
           "title": "Leetcode 题解代码仓(C++) Github",
-          "description": null,
+          "description": "liuyubobobo/Play-Leetcode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3907,7 +3436,7 @@
         {
           "node_type": "item",
           "title": "Play Leetcode with different Programming language Github",
-          "description": null,
+          "description": "luliyucoordinate/Leetcode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3936,7 +3465,7 @@
         {
           "node_type": "item",
           "title": "LeetCode, HackRank, 剑指offer, classic algorithm implementation (C++) Github",
-          "description": null,
+          "description": "knightsj/awesome-algorithm-question-solution",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3963,7 +3492,7 @@
         {
           "node_type": "item",
           "title": "面试高频算法题总结，个人博客 Github",
-          "description": null,
+          "description": "Miller-Xie/Code",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3984,7 +3513,7 @@
         {
           "node_type": "item",
           "title": "leetcode 1~400知识点&题型总结&leetcode对应题表 Github",
-          "description": null,
+          "description": "huxiaoman7/leetcodebook",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4008,7 +3537,7 @@
         {
           "node_type": "item",
           "title": "基于OpenCV4.0 C++/Python SDK的案例代码演示程序与效果图像 Github",
-          "description": null,
+          "description": "gloomyfish1998/opencv_tutorial",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4035,7 +3564,7 @@
         {
           "node_type": "item",
           "title": "A curated list of awesome Python frameworks, libraries, software and resources Github",
-          "description": null,
+          "description": "vinta/awesome-python",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4045,10 +3574,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T12:01:28Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 324712,
+            "stars": 324779,
             "topics": [
               "awesome",
               "awesome-list",
@@ -4063,7 +3592,7 @@
         {
           "node_type": "item",
           "title": "All Algorithms implemented in Python Github",
-          "description": null,
+          "description": "TheAlgorithms/Python",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4073,10 +3602,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-01T16:19:55Z",
-            "open_issues": 4,
+            "open_issues": 7,
             "owner": "TheAlgorithms",
             "repo": "Python",
-            "stars": 225207,
+            "stars": 225217,
             "topics": [
               "algorithm",
               "algorithm-competitions",
@@ -4099,7 +3628,7 @@
         {
           "node_type": "item",
           "title": "Python - 100天从新手到大师 Github",
-          "description": null,
+          "description": "jackfrued/Python-100-Days",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4112,7 +3641,7 @@
             "open_issues": 716,
             "owner": "jackfrued",
             "repo": "Python-100-Days",
-            "stars": 187035,
+            "stars": 187039,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:12.080Z"
@@ -4120,7 +3649,7 @@
         {
           "node_type": "item",
           "title": "和小浩学算法 Github",
-          "description": null,
+          "description": "geekxh/hello-algorithm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4147,7 +3676,7 @@
         {
           "node_type": "item",
           "title": "关于Python的面试题1 Github",
-          "description": null,
+          "description": "taizilongxu/interview_python",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4168,7 +3697,7 @@
         {
           "node_type": "item",
           "title": "wtfpython的中文翻译 Github",
-          "description": null,
+          "description": "leisurelicht/wtfpython-cn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4189,7 +3718,7 @@
         {
           "node_type": "item",
           "title": "LeetCode, HackRank, 剑指offer, classic algorithm implementation (Python) Github",
-          "description": null,
+          "description": "apachecn/apachecn-algo-zh",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4221,7 +3750,7 @@
         {
           "node_type": "item",
           "title": "c9-python-getting-started Github",
-          "description": null,
+          "description": "microsoft/c9-python-getting-started",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4242,7 +3771,7 @@
         {
           "node_type": "item",
           "title": "The Beauty of Python Programming Github",
-          "description": null,
+          "description": "ethan-funny/explore-python",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4266,7 +3795,7 @@
         {
           "node_type": "item",
           "title": "python中文库-python人工智能大数据自动化接口测试开发。书籍下载及python库汇总 Github",
-          "description": null,
+          "description": "china-testing/python-api-tesing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4287,7 +3816,7 @@
         {
           "node_type": "item",
           "title": "算法面试题python Github",
-          "description": null,
+          "description": "leeguandong/Interview-code-practice-python",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4308,7 +3837,7 @@
         {
           "node_type": "item",
           "title": "Just Code ! 针对面试训练算法题 Github",
-          "description": null,
+          "description": "YaxeZhang/Just-Code",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4329,7 +3858,7 @@
         {
           "node_type": "item",
           "title": "Improve your Python by fixing errors Github",
-          "description": null,
+          "description": "qxf2/wtfiswronghere",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4355,7 +3884,7 @@
         {
           "node_type": "item",
           "title": "剑指offer（python版）/ 算法图解 / python基础 / 数据结构 Github",
-          "description": null,
+          "description": "lesywix/oh-my-python",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4387,7 +3916,7 @@
         {
           "node_type": "item",
           "title": "程序员简历模板系列 Github",
-          "description": null,
+          "description": "geekcompany/ResumeSample",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4408,7 +3937,7 @@
         {
           "node_type": "item",
           "title": "Awesome Resume for Chinese Github",
-          "description": null,
+          "description": "dyweb/awesome-resume-for-chinese",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4421,7 +3950,7 @@
             "open_issues": 4,
             "owner": "dyweb",
             "repo": "awesome-resume-for-chinese",
-            "stars": 8507,
+            "stars": 8508,
             "topics": [
               "engineer",
               "html",
@@ -4435,7 +3964,7 @@
         {
           "node_type": "item",
           "title": "AI算法岗简历模板 Github",
-          "description": null,
+          "description": "amusi/AI-Job-Resume",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4468,7 +3997,7 @@
         {
           "node_type": "item",
           "title": "A complete computer science study plan to become a software engineer. Github",
-          "description": null,
+          "description": "jwasham/coding-interview-university",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4481,7 +4010,7 @@
             "open_issues": 127,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 362252,
+            "stars": 362262,
             "topics": [
               "algorithm",
               "algorithms",
@@ -4502,7 +4031,7 @@
         {
           "node_type": "item",
           "title": "coding interview university Github",
-          "description": null,
+          "description": "jwasham/coding-interview-university",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4515,7 +4044,7 @@
             "open_issues": 127,
             "owner": "jwasham",
             "repo": "coding-interview-university",
-            "stars": 362252,
+            "stars": 362262,
             "topics": [
               "algorithm",
               "algorithms",
@@ -4536,7 +4065,7 @@
         {
           "node_type": "item",
           "title": "Materials to help you rock your next coding interview Github",
-          "description": null,
+          "description": "yangshun/tech-interview-handbook",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4549,7 +4078,7 @@
             "open_issues": 37,
             "owner": "yangshun",
             "repo": "tech-interview-handbook",
-            "stars": 143098,
+            "stars": 143099,
             "topics": [
               "algorithm",
               "algorithm-interview",
@@ -4568,7 +4097,7 @@
         {
           "node_type": "item",
           "title": "awesome-interview-questions Github",
-          "description": null,
+          "description": "DopplerHQ/awesome-interview-questions",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4581,7 +4110,7 @@
             "open_issues": 48,
             "owner": "DopplerHQ",
             "repo": "awesome-interview-questions",
-            "stars": 84763,
+            "stars": 84771,
             "topics": [
               "android-interview-questions",
               "angularjs-interview-questions",
@@ -4604,7 +4133,7 @@
         {
           "node_type": "item",
           "title": "Everything you need to know to get the job Github",
-          "description": null,
+          "description": "kdn251/interviews",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4617,7 +4146,7 @@
             "open_issues": 122,
             "owner": "kdn251",
             "repo": "interviews",
-            "stars": 65266,
+            "stars": 65264,
             "topics": [
               "algorithm",
               "algorithm-challenges",
@@ -4646,7 +4175,7 @@
         {
           "node_type": "item",
           "title": "浙江大学课程攻略共享计划 Github",
-          "description": null,
+          "description": "QSCTech/zju-icicles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4667,7 +4196,7 @@
         {
           "node_type": "item",
           "title": "清华大学计算机系课程攻略 Github",
-          "description": null,
+          "description": "PKUanonym/REKCARC-TSC-UHT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4694,7 +4223,7 @@
         {
           "node_type": "item",
           "title": "北京大学课程资料整理 Github",
-          "description": null,
+          "description": "lib-pku/libpku",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4715,7 +4244,7 @@
         {
           "node_type": "item",
           "title": "编程竞赛 OI Wiki Github",
-          "description": null,
+          "description": "OI-wiki/OI-wiki",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4725,10 +4254,10 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-10-02T16:09:11Z",
-            "open_issues": 139,
+            "open_issues": 141,
             "owner": "OI-wiki",
             "repo": "OI-wiki",
-            "stars": 26799,
+            "stars": 26801,
             "topics": [
               "acm-icpc",
               "acm-icpc-handbook",
@@ -4749,7 +4278,7 @@
         {
           "node_type": "item",
           "title": "Curated list of resources for college students Github",
-          "description": null,
+          "description": "dipakkr/A-to-Z-Resources-for-Students",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4762,7 +4291,7 @@
             "open_issues": 55,
             "owner": "dipakkr",
             "repo": "A-to-Z-Resources-for-Students",
-            "stars": 22311,
+            "stars": 22312,
             "topics": [
               "android",
               "awesome",
@@ -4779,7 +4308,7 @@
         {
           "node_type": "item",
           "title": "Everything you need to prepare for your technical interview Github",
-          "description": null,
+          "description": "Olshansk/interview",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4806,7 +4335,7 @@
         {
           "node_type": "item",
           "title": "专为程序员编写的英语学习指南 Github",
-          "description": null,
+          "description": "yujiangshui/A-Programmers-Guide-to-English",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4819,7 +4348,7 @@
             "open_issues": 10,
             "owner": "yujiangshui",
             "repo": "A-Programmers-Guide-to-English",
-            "stars": 16867,
+            "stars": 16866,
             "topics": [
               "english",
               "english-learning"
@@ -4830,7 +4359,7 @@
         {
           "node_type": "item",
           "title": "中国科学技术大学课程资源 Github",
-          "description": null,
+          "description": "USTC-Resource/USTC-Course",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4843,7 +4372,7 @@
             "open_issues": 0,
             "owner": "USTC-Resource",
             "repo": "USTC-Course",
-            "stars": 16298,
+            "stars": 16297,
             "topics": [
               "computer-science",
               "course",
@@ -4856,7 +4385,7 @@
         {
           "node_type": "item",
           "title": "Learn Vim (the Smart Way)：Vim学习手册 Github",
-          "description": null,
+          "description": "iggredible/Learn-Vim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4869,7 +4398,7 @@
             "open_issues": 18,
             "owner": "iggredible",
             "repo": "Learn-Vim",
-            "stars": 15244,
+            "stars": 15245,
             "topics": [
               "advanced",
               "beginner",
@@ -4895,7 +4424,7 @@
         {
           "node_type": "item",
           "title": "计算机速成课(全40集) Github",
-          "description": null,
+          "description": "1c7/Crash-Course-Computer-Science-Chinese",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4920,7 +4449,7 @@
         {
           "node_type": "item",
           "title": "计算机专业课（408）思维导图和笔记：计算机组成原理（第五版 王爱英），数据结构（王道），计算机网络（第七版 谢希仁），操作系统（第四版 汤小丹） Github",
-          "description": null,
+          "description": "SSHeRun/CS-Xmind-Note",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4941,7 +4470,7 @@
         {
           "node_type": "item",
           "title": "计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结 Github",
-          "description": null,
+          "description": "wolverinn/Waking-Up",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4971,7 +4500,7 @@
         {
           "node_type": "item",
           "title": "上海交通大学课程资料分享 Github",
-          "description": null,
+          "description": "kxxwz/SJTU-Courses",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4995,7 +4524,7 @@
         {
           "node_type": "item",
           "title": "清华大神的计算机自学笔记 Github",
-          "description": null,
+          "description": "huangruiteng/CS-Notes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5008,7 +4537,7 @@
             "open_issues": 6,
             "owner": "huangruiteng",
             "repo": "CS-Notes",
-            "stars": 4000,
+            "stars": 3999,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:12.080Z"
@@ -5016,7 +4545,7 @@
         {
           "node_type": "item",
           "title": "Awesome Programming Books Github",
-          "description": null,
+          "description": "zero-equals-false/awesome-programming-books",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5029,7 +4558,7 @@
             "open_issues": 6,
             "owner": "zero-equals-false",
             "repo": "awesome-programming-books",
-            "stars": 2116,
+            "stars": 2117,
             "topics": [
               "awesome",
               "awesome-list",
@@ -5043,7 +4572,7 @@
         {
           "node_type": "item",
           "title": "Study materials for SE/CS technical interviews Github",
-          "description": null,
+          "description": "jdsutton/Technical-Interview-Megarepo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5075,7 +4604,7 @@
         {
           "node_type": "item",
           "title": "国内各大城市提供计算机视觉（CV）算法岗的公司名单 Github",
-          "description": null,
+          "description": "amusi/CV-Company-List",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5100,7 +4629,7 @@
         {
           "node_type": "item",
           "title": "Startups about artificial intelligence. (DM, ML, NLP, CV...) Github",
-          "description": null,
+          "description": "lipiji/AIStartups",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5121,7 +4650,7 @@
         {
           "node_type": "item",
           "title": "计算机科学和相关领域研究生奖学金大列表 Github",
-          "description": null,
+          "description": "chinasaokolo/csGraduateFellowships",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5144,7 +4673,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:10:36.003Z",
+    "last_updated": "2026-10-03T04:27:40.017Z",
     "original_repository_info": {
       "archived": false,
       "description": "算法工程师(人工智能CV方向)面试问题及相关资料",
